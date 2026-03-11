@@ -1,0 +1,26 @@
+# Config for "Generate dataset" stage: display names and Q&A generation
+qa_pairs_per_document: 2
+
+domain_display_names:
+  zhk_sunny_shore: Sunny Shore
+  zhk_northern_star: Northern Star
+  zhk_park_quarter: Park Quarter
+  zhk_river_expanse: River Expanse
+  zhk_forest_retreat: Forest Retreat
+  zhk_city_skyline: City Skyline
+  zhk_central_park: Central Park
+  zhk_new_horizons: New Horizons
+  zhk_silver_spring: Silver Spring
+  zhk_green_grove: Green Grove
+  zhk_golden_cove: Golden Cove
+  zhk_urban_haven: Urban Haven
+  zhk_meadow_brook: Meadow Brook
+  zhk_marina_view: Marina View
+  zhk_highland_ridge: Highland Ridge
+
+collection_display_names:
+  apartments: Apartments and Floor Plans
+  infrastructure: Infrastructure
+  management_company: Management Company
+  commercial_premises: Commercial Premises
+  security_and_access: Security and Access Control

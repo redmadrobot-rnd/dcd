@@ -1,0 +1,37 @@
+**Resident Contact and Support**
+
+---
+
+### 1. Management Company
+
+The residential complex is managed by **{{management_company}}**. The management company is responsible for day-to-day operations, maintenance, and resident support.
+
+---
+
+### 2. Emergency Hotline
+
+For urgent matters (water leaks, power outages, security issues, lift malfunctions), call the **emergency hotline: {{emergency_hotline}}**. The hotline operates 24/7 and dispatches technicians or security personnel as needed.
+
+---
+
+### 3. Resident Portal Access
+
+Residents can access the **resident portal at {{resident_portal}}** for online payments, service requests, announcements, and document storage. Portal login credentials are provided at move-in. If you experience login issues, contact support via phone or visit the management office.
+
+---
+
+### 4. Technical Support and Repairs
+
+Report maintenance issues, repairs, or defects via the resident portal ({{resident_portal}}) or emergency hotline ({{emergency_hotline}}). **Response time:** {{complaint_response_time}}. Non-urgent requests can be submitted during office hours. The management company will assign a contractor and coordinate access if entry to the apartment is required.
+
+---
+
+### 5. General Inquiries and Feedback
+
+For general inquiries, document requests, or feedback, residents may contact {{management_company}} through the resident portal ({{resident_portal}}) or during office hours. Response times may vary; urgent matters should be clearly marked. Residents are encouraged to keep records of all communications for reference.
+
+---
+
+### 6. Summary
+
+{{management_company}} manages the complex and provides support via emergency hotline ({{emergency_hotline}}), resident portal ({{resident_portal}}), and office contact. Response time for complaints: {{complaint_response_time}}. Use the portal or emergency hotline for prompt assistance.

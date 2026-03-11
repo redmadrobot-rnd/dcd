@@ -1,0 +1,44 @@
+**Commercial Premises Overview**
+
+---
+
+### 1. Summary
+
+The development offers commercial lots on the ground floor, with various sizes available to accommodate different business needs.
+
+---
+
+### 2. Rental and Use
+
+- **Rental rate:** {{commercial_rental_rate}}
+- **Permitted use:** {{commercial_permitted_use}}
+
+---
+
+### 3. Existing Tenants
+
+The commercial ground floor includes: **{{commercial_ground_floor}}**.
+
+---
+
+### 4. Application and Selection
+
+Prospective tenants typically submit a business plan, company profile, and proposed use. The landlord may conduct a review to ensure compatibility with the permitted use ({{commercial_permitted_use}}) and the overall concept of the development. Approval may take several weeks. Once approved, the parties negotiate the lease terms and prepare the contract. A security deposit is usually required before keys are handed over.
+
+---
+
+### 5. Location and Foot Traffic
+
+The commercial premises benefit from their position within a residential development, providing a captive audience of residents. Proximity to residential entrances, parking, and pedestrian flows influences the attractiveness of each lot. Corner units and those with street frontage may command a premium. The landlord can provide foot traffic estimates and demographic data to support tenant business planning.
+
+---
+
+### 6. Maintenance and Repairs
+
+The landlord is typically responsible for structural repairs, roof, and common areas. Tenants are responsible for maintaining their lot and fit-out, including HVAC, lighting, and interior finishes. Repairs to building systems (e.g. HVAC, plumbing) may be the landlord's responsibility if they serve the whole building, or the tenant's if they serve only the lot. The lease should clearly allocate repair obligations to avoid disputes.
+
+---
+
+### 7. Inquiries
+
+For leasing inquiries, contact the management company {{management_company}} or the developer's commercial department. Site visits can be arranged by appointment. Brochures and floor plans are available upon request.

@@ -1,0 +1,54 @@
+# Template configuration for generating the RAG dataset
+# Each collection contains 2-3 templates (documents)
+# Templates use {{variable_name}} variables to substitute values from domains_variables.yaml
+
+collections:
+  apartments:
+    - template: "Floor Plans and Apartment Sizes"
+      output_name: "Floor Plans and Apartment Sizes"
+    - template: "Pricing and Purchase Terms"
+      output_name: "Pricing and Purchase Terms"
+    - template: "Apartment Features and Finish"
+      output_name: "Apartment Features and Finish"
+    - template: "Mortgage and Financing Options"
+      output_name: "Mortgage and Financing Options"
+
+  infrastructure:
+    - template: "Parking and Spaces"
+      output_name: "Parking and Spaces"
+    - template: "Landscaping and Children's Infrastructure"
+      output_name: "Landscaping and Children's Infrastructure"
+    - template: "Infrastructure Overview"
+      output_name: "Infrastructure Overview"
+    - template: "Parking Rules and Fees"
+      output_name: "Parking Rules and Fees"
+
+  management_company:
+    - template: "Service Tariffs and Services"
+      output_name: "Service Tariffs and Services"
+    - template: "HOA Rules and Regulations"
+      output_name: "HOA Rules and Regulations"
+    - template: "Management Company Overview"
+      output_name: "Management Company Overview"
+    - template: "Resident Contact and Support"
+      output_name: "Resident Contact and Support"
+
+  commercial_premises:
+    - template: "Commercial Real Estate in the Complex"
+      output_name: "Commercial Real Estate in the Complex"
+    - template: "Commercial Premises Terms"
+      output_name: "Commercial Premises Terms"
+    - template: "Commercial Premises Overview"
+      output_name: "Commercial Premises Overview"
+    - template: "Commercial Lease Application"
+      output_name: "Commercial Lease Application"
+
+  security_and_access:
+    - template: "Security and Access Control System"
+      output_name: "Security and Access Control System"
+    - template: "Access Control Details"
+      output_name: "Access Control Details"
+    - template: "Security Overview"
+      output_name: "Security Overview"
+    - template: "Visitor Access and Guest Registration"
+      output_name: "Visitor Access and Guest Registration"

@@ -1,0 +1,55 @@
+**Floor Plans and Apartment Sizes**
+
+---
+
+### 1. Overview of Apartment Types
+
+The development offers a range of apartment configurations to suit different household needs. The sizes are expressed in square metres (sqm) measured from interior wall to interior wall.
+
+| Type | Bedrooms | Net internal area (sqm) |
+|------|----------|-------------------------|
+| Studio | 0 | {{studio_sizes}} |
+| 1-Bedroom | 1 | {{one_bedroom_sizes}} |
+| 2-Bedroom | 2 | {{two_bedroom_sizes}} |
+| 3-Bedroom | 3 | {{three_bedroom_sizes}} |
+| 4-Bedroom | 4 | {{four_bedroom_sizes}} |
+
+---
+
+### 2. Ceiling Height and Layout
+
+All apartments feature a uniform internal ceiling height of **{{ceiling_height}} metres** measured from the finished floor to the underside of the roof slab. This provides ample volume for comfortable living and efficient climate control.
+
+The layout of each apartment type follows a modular grid aligned with the structural bay spacing. Circulation spaces such as corridors and door openings meet the minimum width requirements of the local building code. The design prioritises natural light penetration and efficient use of floor area, with living spaces typically positioned adjacent to windows or balconies.
+
+---
+
+### 3. Interior Finish
+
+The finish type across all apartment types is **{{finish_type}}**. This ensures consistency in quality and allows residents to personalise their space according to their preferences.
+
+Interior partitions are designed to provide adequate sound insulation between units. Bathrooms and wet areas are finished with moisture-resistant materials. The developer provides a standard warranty on construction defects, and residents are advised to inspect their unit upon handover and report any issues within the warranty period.
+
+---
+
+### 4. Balconies and Loggias
+
+Where applicable, apartments include balconies or loggias that extend the living space outdoors. These areas are suitable for seasonal use and may be glazed or open depending on the unit type. Balcony dimensions are included in the net internal area where they form part of the heated envelope.
+
+---
+
+### 5. Room Dimensions and Proportions
+
+Each room type has minimum and maximum dimensions that ensure comfortable use. Studios ({{studio_sizes}} sqm) and 1-bedroom units ({{one_bedroom_sizes}} sqm) typically allow for a compact seating area; 2-bedroom ({{two_bedroom_sizes}} sqm) and 3-bedroom ({{three_bedroom_sizes}} sqm) layouts provide more flexibility. The proportions between rooms are calibrated to support everyday activities without wasted space. Corner and through apartments may offer additional windows and cross-ventilation, which can improve comfort in warmer months.
+
+---
+
+### 6. Structural and Load-Bearing Elements
+
+Load-bearing walls and columns are positioned to minimise obstruction of the living space. Non-structural partitions can often be modified or removed subject to approval, allowing residents to adapt the layout to their needs. Any structural modifications require prior consent from the management company and must be carried out by licensed contractors. The developer's technical documentation specifies which walls are load-bearing.
+
+---
+
+### 7. Summary
+
+The floor plans are designed to maximise usable space while maintaining high standards of comfort and functionality. With a uniform ceiling height of {{ceiling_height}} m and finish type {{finish_type}}, the variety of configurations from studios ({{studio_sizes}} sqm) to four-bedroom units ({{four_bedroom_sizes}} sqm) accommodates singles, couples, and families alike. Prospective buyers are encouraged to request detailed floor plans from the sales office for units of interest and to visit the show apartment if available.

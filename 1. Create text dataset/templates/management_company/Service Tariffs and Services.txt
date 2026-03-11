@@ -1,0 +1,46 @@
+**Service Tariffs and Services**
+
+---
+
+### 1. Management Company
+
+The residential complex is managed by **{{management_company}}**.
+
+---
+
+### 2. Maintenance Tariff
+
+- **Maintenance and repair tariff:** {{maintenance_tariff}} RUB per square metre per month
+- Utility payments are calculated by meter readings in accordance with applicable standards.
+
+---
+
+### 3. Services Included
+
+The tariff typically covers common area maintenance, waste removal, and basic building services. This may include cleaning of lobbies, stairwells, and corridors; maintenance of lifts and entrance doors; landscaping of the courtyard; and operation of security and access control systems. For a full list of included services, residents should refer to the management contract or contact {{management_company}} directly.
+
+Additional services such as concierge, parcel acceptance, or specialised cleaning may be offered at extra cost. The management company publishes a tariff schedule, which may be revised annually in accordance with the law and the decisions of the homeowners' association or general meeting.
+
+---
+
+### 4. Payment and Billing
+
+Residents receive a monthly or quarterly invoice for maintenance ({{maintenance_tariff}} RUB/sqm) and utilities. Payment can usually be made via bank transfer, online banking, or through a resident portal. Late payment may incur penalties as specified in the management contract. Residents are advised to keep records of payments for their own reference and for dispute resolution if needed. Contact {{management_company}} for payment-related inquiries.
+
+---
+
+### 5. Tariff Indexation and Changes
+
+The maintenance tariff (currently {{maintenance_tariff}} RUB/sqm per month) may be adjusted annually in line with inflation, changes in utility costs, or decisions of the homeowners' association. Residents are entitled to advance notice of any tariff increase, typically at least one month before it takes effect. {{management_company}} must provide justification for increases and, where required by law, obtain approval from the general meeting of owners.
+
+---
+
+### 6. Dispute Resolution
+
+If a resident disagrees with an invoice, the quality of services, or a decision of the management company, they may raise the matter in writing. The management company is obliged to respond within a specified period. If the dispute cannot be resolved, the resident may refer the matter to the homeowners' association, a housing dispute resolution body, or the courts as appropriate under local law.
+
+---
+
+### 7. Summary
+
+Residents pay {{maintenance_tariff}} RUB/sqm per month for maintenance services. The management company {{management_company}} is responsible for the day-to-day operation of the complex. Questions about tariffs, services, or billing should be directed to the management company through the channels provided in the resident portal or contract.

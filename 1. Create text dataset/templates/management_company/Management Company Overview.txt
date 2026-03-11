@@ -1,0 +1,45 @@
+**Management Company Overview**
+
+---
+
+### 1. Management
+
+The complex is operated by **{{management_company}}**.
+
+---
+
+### 2. Contact Information
+
+- **Phone:** {{management_company_phone}}
+- **Office hours:** {{management_office_hours}}
+- **Staff:** {{management_staff_count}} available to assist residents
+
+---
+
+### 3. Service Scope
+
+The management company oversees maintenance of common areas, security systems, landscaping, and coordin ation with utility providers. They handle service requests, complaints, and administrative matters related to the homeowners' association. The company's responsibilities are defined in the management contract.
+
+---
+
+### 4. Service Requests
+
+Residents can submit service requests (repairs, cleaning, maintenance) through the resident portal, by phone ({{management_company_phone}}), or in person at the management office. **Response time:** {{complaint_response_time}}. Urgent issues such as water leaks or power failures should be reported immediately. Residents should provide a clear description of the issue and, where possible, photographs.
+
+---
+
+### 5. Resident Portal and Communication
+
+The management company operates a resident portal: **{{resident_portal}}**. Residents can use the portal for payments, service requests, announcements, and document storage. Important notices (planned maintenance, meetings) are communicated via the portal, email, or notice boards. Residents should check these channels regularly and keep contact details up to date.
+
+---
+
+### 6. General Meetings and Participation
+
+Residents have the right to participate in general meetings of the homeowners' association. Meetings decide on major issues such as tariff approval, capital repairs, and selection of the management company. Voting rights are typically proportional to ownership share. Residents can raise issues and propose resolutions.
+
+---
+
+### 7. Contact
+
+For service requests and inquiries, contact {{management_company}} at {{management_company_phone}} during {{management_office_hours}} or via the resident portal at {{resident_portal}}.

@@ -1,0 +1,55 @@
+**Pricing and Purchase Terms**
+
+---
+
+### 1. Price Range by Apartment Type
+
+The following prices apply to apartments in the complex (prices in RUB):
+
+| Type | Price from |
+|------|------------|
+| Studio | {{studio_price}} RUB |
+| 1-Bedroom | {{one_bedroom_price}} RUB |
+| 2-Bedroom | {{two_bedroom_price}} RUB |
+| 3-Bedroom | {{three_bedroom_price}} RUB |
+| 4-Bedroom | {{four_bedroom_price}} RUB |
+
+---
+
+### 2. Mortgage and Payment Terms
+
+- **Mortgage down payment:** from {{mortgage_down_payment}}
+- **Mortgage rate:** {{mortgage_rate}} per annum via partner bank(s) {{partner_bank}}
+- **Completion date:** {{completion_date}}
+
+---
+
+### 3. Purchase Process
+
+Prospective buyers are advised to contact the sales office for current availability and to discuss individual payment plans. The developer works with accredited partner banks to facilitate mortgage applications.
+
+A reservation fee may be required to hold a unit while the purchase documents are being prepared. The reservation is typically valid for a limited period and may be refundable or applied to the purchase price depending on the terms. Buyers should review the reservation agreement carefully before signing.
+
+---
+
+### 4. Additional Costs
+
+In addition to the apartment price, buyers should budget for notarial fees, state registration of ownership, and any applicable taxes. The sales office can provide an estimate of these costs based on the specific unit and purchase structure. Utility connection fees, if any, are usually included in the purchase price or disclosed separately.
+
+---
+
+### 5. Developer Instalment Plans
+
+Where the developer offers an instalment plan, the terms typically require an initial payment (e.g. from {{mortgage_down_payment}} down payment) followed by scheduled payments until completion or handover. Interest may or may not be charged depending on the programme. Buyers should compare the total cost of the developer's plan with bank mortgage offers (e.g. {{mortgage_rate}} via {{partner_bank}}) to determine the most advantageous option. Early full payment may qualify for a discount in some cases.
+
+---
+
+### 6. Price Adjustments and Indexation
+
+Prices may be subject to adjustment during the construction period in accordance with the purchase agreement, with handover expected {{completion_date}}. Indexation clauses, if present, are usually linked to inflation indices or construction cost indices. Buyers should review these clauses and understand the maximum possible increase before signing. Fixed-price contracts offer certainty but may command a premium. Current pricing starts from {{studio_price}} RUB for studios and {{three_bedroom_price}} RUB for 3-bedroom units.
+
+---
+
+### 7. Summary
+
+The development offers competitive pricing across all apartment types, with flexible financing options through partner banks. The expected completion date is {{completion_date}}. Early reservation may secure preferred units and, in some cases, favourable pricing. Buyers are advised to obtain a personalised offer and to seek independent legal and financial advice before committing.

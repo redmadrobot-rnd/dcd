@@ -1,0 +1,52 @@
+**Parking and Spaces**
+
+---
+
+### 1. Parking Overview
+
+The development provides {{parking_type}} parking for **{{parking_spaces}} vehicles** across {{parking_levels}} level(s). The parking facility is designed to meet the needs of residents and visitors.
+
+---
+
+### 2. Pricing
+
+| Item | Price |
+|------|-------|
+| Parking space purchase | {{parking_price}} RUB |
+| Motorcycle space | {{motorcycle_price}} |
+
+---
+
+### 3. Electric Vehicle Charging
+
+EV charging stations: **{{ev_charging_count}} units** are available for residents with electric vehicles. Charging points are typically located in designated areas of the parking facility. Residents may need to register their vehicle or apply for a dedicated charging slot depending on availability. Usage may be billed separately or included in the parking fee; residents should confirm the billing arrangement with the management company.
+
+---
+
+### 4. Bicycle Parking
+
+Bicycle parking: **{{bicycle_spaces}}** for residents. Access is controlled and integrated with the building's security system. Bicycle storage may be covered or enclosed to protect against weather. Residents are advised to use a personal lock in addition to any building-provided securing mechanism. Electric bicycles can usually be stored in the same area; charging facilities, if available, may be subject to separate fees.
+
+---
+
+### 5. Guest and Visitor Parking
+
+Visitor parking arrangements vary. Some developments offer a limited number of guest spaces, time-limited parking, or a visitor registration system. Residents should inform guests of the applicable rules and procedures to avoid inconvenience. Unauthorised parking may result in towing or fines at the vehicle owner's expense.
+
+---
+
+### 6. Parking Access and Circulation
+
+Entry and exit to the {{parking_type}} facility are controlled by barriers or gates. With {{parking_spaces}} spaces across {{parking_levels}} level(s), the circulation layout is designed to minimise congestion during peak hours. Residents should drive cautiously and watch for pedestrians, especially near lobby entrances and the bicycle parking area. Speed limits and one-way traffic rules apply within the facility.
+
+---
+
+### 7. Lighting and Safety
+
+The {{parking_type}} facility with {{parking_spaces}} spaces is equipped with adequate lighting for safe navigation and vehicle operation. EV charging: {{ev_charging_count}} stations. Where available, users should follow electrical safety guidelines. Emergency exits and fire safety equipment are clearly marked. In the event of a fire alarm, residents should evacuate immediately and not attempt to retrieve their vehicle. Smoke detectors and sprinkler systems may be installed in accordance with local regulations.
+
+---
+
+### 8. Summary
+
+The parking infrastructure includes {{parking_spaces}} spaces, {{ev_charging_count}} EV charging units, and bicycle parking ({{bicycle_spaces}}). Purchase price for a standard space is {{parking_price}} RUB. The facility is designed to support the mobility needs of residents while maintaining security and order. Residents with questions about parking should contact the management company.

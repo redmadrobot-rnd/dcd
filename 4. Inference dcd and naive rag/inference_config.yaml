@@ -1,0 +1,47 @@
+# Config for Inference (DCD + naive RAG) stage
+
+# Paths (relative to script directory unless noted)
+pipeline_output_dir: "output"   # relative to parent of script dir (dataset.xlsx location)
+dataset_file: "dataset.xlsx"
+output_dir: "output"
+output_dcd_file: "dcd_dataset.xlsx"
+output_naive_rag_file: "naive_rag_dataset.xlsx"
+
+# Chroma (path relative to script dir)
+chroma_path: "../3. Create vector DB/my_db"
+collection_name: "dcd_collection"
+
+# Reranker
+reranker_model: "BAAI/bge-reranker-v2-m3"
+
+# DCD pipeline
+dcd_n_results: 20      # Chroma query limit before rerank
+dcd_rerank_top_n: 10   # Top chunks after rerank
+
+# Naive RAG
+naive_rag_n_results: 10
+
+# Display name -> key (for classifier output; must match dataset/metadata)
+domain_display_to_key:
+  Sunny Shore: zhk_sunny_shore
+  Northern Star: zhk_northern_star
+  Park Quarter: zhk_park_quarter
+  River Expanse: zhk_river_expanse
+  Forest Retreat: zhk_forest_retreat
+  City Skyline: zhk_city_skyline
+  Central Park: zhk_central_park
+  New Horizons: zhk_new_horizons
+  Silver Spring: zhk_silver_spring
+  Green Grove: zhk_green_grove
+  Golden Cove: zhk_golden_cove
+  Urban Haven: zhk_urban_haven
+  Meadow Brook: zhk_meadow_brook
+  Marina View: zhk_marina_view
+  Highland Ridge: zhk_highland_ridge
+
+collection_display_to_key:
+  Apartments and Floor Plans: apartments
+  Infrastructure: infrastructure
+  Management Company: management_company
+  Commercial Premises: commercial_premises
+  Security and Access Control: security_and_access

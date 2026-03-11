@@ -1,0 +1,43 @@
+**Access Control Details**
+
+---
+
+### 1. Access Control
+
+**System type:** {{acs_type}}
+
+---
+
+### 2. Access Credentials and Replacement
+
+Residents receive access credentials upon registration. **Lost or stolen key replacement fee:** {{access_card_replacement_fee}}. Report lost credentials immediately to {{management_company}} for deactivation. **Replacement procedure:** {{access_lost_key_procedure}}.
+
+---
+
+### 3. Guest Access Codes
+
+Residents can generate temporary guest access codes via the mobile app or resident portal. **Guest code duration:** {{access_guest_code_duration}}. After expiry, guests must request a new code or use the intercom. Residents are responsible for ensuring that only authorized persons receive access codes.
+
+---
+
+### 4. Visitor Access
+
+Visitors gain access through the intercom system, which connects to the resident's apartment. The resident can grant entry by pressing a button or through a mobile app. Some systems support one-time codes or pre-registration of guests. Residents are responsible for ensuring that only authorised persons are granted access. Unauthorised entry or tailgating (following another person through a secured door) should be reported to the management company or security.
+
+---
+
+### 5. Parking Access
+
+Parking facilities may use the same access control system as the building or a separate system. Residents with parking rights receive credentials that allow entry to the parking area. The system may log entry and exit times for security and billing purposes. Residents should not lend their parking credentials to others, as this may violate the parking rules and compromise security. {{management_company}} oversees both building and parking access.
+
+---
+
+### 6. Maintenance and Outages
+
+The access control system requires periodic maintenance. {{management_company}} schedules maintenance during low-traffic periods where possible. Residents will be notified in advance of any planned outages. During an outage, alternative access procedures (e.g. manual release by security personnel) may be in place. Residents should report malfunctions (doors not closing, readers not responding) promptly.
+
+---
+
+### 7. Management
+
+The security and access control systems are operated by {{management_company}}. Residents should contact the management company for access credentials, lost key replacement ({{access_card_replacement_fee}}), or to report security concerns. Maintenance of the systems is carried out by qualified technicians; residents will be notified in advance of any planned outages that may affect access.

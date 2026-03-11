@@ -1,0 +1,43 @@
+**Parking Rules and Fees**
+
+---
+
+### 1. Parking Facility Overview
+
+The development provides **{{parking_type}}** parking for residents. Residents who purchase a parking space receive a deed and full ownership rights. Rental options may be available for those who do not wish to purchase.
+
+---
+
+### 2. Purchase and Rental Prices
+
+| Item | Price |
+|------|-------|
+| Parking space purchase | {{parking_price}} RUB |
+| Motorcycle space | {{motorcycle_price}} |
+| Daily guest parking | {{parking_reservation_fee}} |
+
+The purchase price ({{parking_price}} RUB) is typically paid at key handover or according to the purchase agreement. Motorcycle spaces, where available, are offered at {{motorcycle_price}}. Guest parking can be reserved for {{parking_reservation_fee}} per day. Residents should confirm current availability and pricing with the management company.
+
+---
+
+### 3. Parking Violations and Fines
+
+Unauthorised parking in reserved spaces, fire lanes, or disabled bays may result in towing at the owner's expense. **Violation fine:** {{parking_violation_fine}}. Report violations to {{management_company}}. Persistent violators may face additional penalties or restricted parking privileges.
+
+---
+
+### 4. Guest and Visitor Parking
+
+**Guest parking:** {{guest_parking_spots}} are available for short-term visitor use. Guests should register at the security post or via the resident mobile app. Parking durations exceeding 24 hours may require additional approval. Unauthorised guest vehicles may be subject to fines or towing.
+
+---
+
+### 5. Rules and Conduct
+
+Speed limits and one-way traffic rules apply within the parking facility. Residents should drive cautiously and watch for pedestrians, especially near lobby entrances. Washing vehicles inside the parking facility is typically prohibited due to drainage and environmental regulations. Designated washing areas, if available, may be located outside the main parking zones.
+
+---
+
+### 6. Summary
+
+The {{parking_type}} parking offers purchase at {{parking_price}} RUB, motorcycle spaces at {{motorcycle_price}}, and guest parking for {{parking_reservation_fee}} per day. Violation fine: {{parking_violation_fine}}. Guest spots: {{guest_parking_spots}}. Residents must comply with speed limits and parking rules. Contact {{management_company}} for inquiries.

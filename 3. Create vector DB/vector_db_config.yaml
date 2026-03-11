@@ -1,0 +1,28 @@
+# Config for Create vector DB stage
+
+# Chroma
+chroma_path: "./my_db"
+collection_name: "dcd_collection"
+
+# Embeddings
+embedding_model: "BAAI/bge-m3"
+
+# Tokenizer (for chunking length)
+tokenizer_encoding: "cl100k_base"
+
+# Text splitter
+chunk_size: 450
+chunk_overlap: 30
+separators:
+  - "\n\n"
+  - "\n"
+  - "."
+  - " "
+  - ""
+
+# Paths
+documents_root: "../output"
+chunks_output_file: "chunks_output.json"
+
+# Add to Chroma in batches
+batch_size: 10

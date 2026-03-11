@@ -1,0 +1,34 @@
+# Metrics Calculation Configuration
+
+# Input data paths
+input:
+  naive_rag_dataset: "../naive_rag_dataset.xlsx"
+  dcd_dataset: "../dcd_dataset.xlsx"
+
+# Output paths
+output:
+  results_dir: "./results"
+  dcd_metrics_file: "dcd_metrics.txt"
+  naive_rag_metrics_file: "naive_rag_metrics.txt"
+  detailed_naive_rag: "naive_rag_evaluated.xlsx"
+  detailed_dcd: "dcd_evaluated.xlsx"
+
+# OpenAI API Configuration
+openai:
+  base_url: "https://api.openai.com/v1"
+  api_key: "your_api_key_here"
+  model_name: "gpt-4o"
+  timeout: 20.0
+  temperature: 0.0
+
+# Context evaluation settings
+context_eval:
+  temperature: 0.1
+
+# Required columns in datasets
+required_columns:
+  - "question"
+  - "answer"
+  - "context"
+  - "find_context"
+  - "generate_answer"

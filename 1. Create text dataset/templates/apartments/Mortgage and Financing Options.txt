@@ -1,0 +1,37 @@
+**Mortgage and Financing Options**
+
+---
+
+### 1. Partner Bank and Mortgage Rate
+
+The developer has partnered with **{{partner_bank}}** to offer subsidised mortgage financing. The mortgage rate is **{{mortgage_rate}}** per annum for eligible buyers.
+
+---
+
+### 2. Down Payment Requirements
+
+The minimum down payment is **{{mortgage_down_payment}}** of the purchase price. A higher down payment may qualify the buyer for a lower interest rate or reduced monthly instalments. The sales office can provide a personalised calculation based on the selected apartment and the buyer's financial profile.
+
+---
+
+### 3. Loan Term and Repayment
+
+The maximum mortgage term is **{{mortgage_max_term}}**. Buyers can choose shorter terms for lower total interest costs. **Early repayment policy:** {{mortgage_early_repayment}}. Buyers should review the mortgage agreement carefully to understand any restrictions or fees related to early payment.
+
+---
+
+### 4. Developer Instalment Plan
+
+In addition to bank mortgage, the developer may offer an instalment plan for a portion of the purchase price. Terms vary; typically 20–40% is paid upfront, with the remainder in equal monthly payments over 12–36 months at 0% interest. The instalment plan may be combined with a bank mortgage for the remaining amount. Contact the sales office for current terms and eligibility.
+
+---
+
+### 5. Completion and Handover
+
+The expected completion date is **{{completion_date}}**. Mortgage disbursement is usually tied to construction milestones. Buyers should ensure their mortgage approval remains valid through the handover date and budget for any interim interest or bridge financing if required.
+
+---
+
+### 6. Summary
+
+Mortgage financing is available through {{partner_bank}} at {{mortgage_rate}} with a minimum down payment of {{mortgage_down_payment}}. Maximum term: {{mortgage_max_term}}. Early repayment: {{mortgage_early_repayment}}. Completion is scheduled for {{completion_date}}. Prospective buyers are advised to obtain a mortgage pre-approval before visiting the sales office.

@@ -1,0 +1,49 @@
+**Landscaping and Children's Infrastructure**
+
+---
+
+### 1. Territory and Courtyard
+
+The complex occupies a gated territory of approximately **{{courtyard_area}}**. The courtyard is designed for residents-only access and features landscaped green areas.
+
+---
+
+### 2. Children's Playgrounds
+
+Children's playgrounds: **{{playground_zones}}**. The equipment is selected for safety and age-appropriate development.
+
+---
+
+### 3. Sports and Recreation
+
+Sports facilities: **{{sports_facilities}}**. These areas are available to all residents and are maintained by the management company.
+
+---
+
+### 4. Commercial Ground Floor
+
+The ground floor of the residential blocks accommodates commercial premises: **{{commercial_ground_floor}}**. This provides convenient access to essential services for residents without leaving the territory. Commercial tenants operate under lease agreements with the developer or management company, and their opening hours may vary.
+
+---
+
+### 5. Maintenance and Seasonal Use
+
+Landscaping, playgrounds, and sports facilities are maintained by the management company as part of the common area service. Seasonal variations may apply: for example, outdoor pools or ice rinks may operate only during certain months. Residents are encouraged to use these facilities responsibly and to report any damage or safety concerns to the management company.
+
+---
+
+### 6. Planting and Greenery
+
+Within the territory ({{courtyard_area}}), the courtyard features a mix of trees, shrubs, and lawn areas selected for durability and low maintenance. Planting is designed to provide shade, improve air quality, and create visual interest throughout the year. Residents should not remove or damage plants or install private structures in common green areas without permission. The children's zones ({{playground_zones}}) and sports areas ({{sports_facilities}}) are integrated into this green framework.
+
+---
+
+### 7. Walking Paths and Seating
+
+Across the territory ({{courtyard_area}}), paved and gravel paths connect the courtyard areas and provide safe access for pedestrians and prams. Benches and seating areas are placed at intervals for rest and socialising, including near the playgrounds ({{playground_zones}}) and sports facilities ({{sports_facilities}}). Lighting along paths allows safe use after dark. Residents are asked to keep paths clear and not to place personal items that could obstruct passage.
+
+---
+
+### 8. Summary
+
+The development offers a balanced mix of green space, children's infrastructure, and sports facilities within the territory ({{courtyard_area}}). The commercial ground floor includes {{commercial_ground_floor}}. The outdoor environment is designed to support an active, family-friendly lifestyle.

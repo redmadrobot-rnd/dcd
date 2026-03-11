@@ -1,0 +1,48 @@
+**Commercial Premises Terms**
+
+---
+
+### 1. Financial Terms
+
+- **Rental rate:** {{commercial_rental_rate}}
+- **Minimum lease term:** {{commercial_lease_term}}
+- **Security deposit:** {{commercial_deposit_months}} rent
+- **Utilities:** {{commercial_utilities_included}}
+
+---
+
+### 2. Permitted Activities
+
+**Permitted use:** {{commercial_permitted_use}}
+
+Tenants must operate within the permitted use categories. Any change of use requires landlord approval and may require modification of the lease. Activities that generate excessive noise, odours, or waste incompatible with residential use may be prohibited.
+
+---
+
+### 3. Parking and Loading
+
+**Parking for commercial tenants:** {{commercial_parking_spaces}} are allocated or available for lease. Loading and unloading should occur at designated times to minimise disruption to residents. Tenants should coordinate delivery schedules with the management company and comply with any restrictions on vehicle access to the territory.
+
+---
+
+### 4. Signage and Branding
+
+**Signage policy:** {{commercial_signage_policy}}. Tenants must submit signage plans for approval before installation. Signage design, size, and placement are regulated to maintain a consistent appearance. Illuminated signs may require additional approval and compliance with municipal regulations.
+
+---
+
+### 5. Access and Operating Hours
+
+Commercial premises typically have independent street or lobby access to allow operation outside residential hours. Tenants are responsible for their own security systems within their lot. Operating hours may be subject to restrictions to minimise disturbance to residents; such restrictions are usually set out in the lease or house rules.
+
+---
+
+### 6. Assignment and Subletting
+
+Tenants wishing to assign the lease or sublet the premises usually require the landlord's prior written consent. The landlord may conduct due diligence on the proposed assignee or subtenant. Assignment or subletting without consent may constitute a breach of the lease.
+
+---
+
+### 7. Summary
+
+Commercial lease terms: rental {{commercial_rental_rate}}, term {{commercial_lease_term}}, deposit {{commercial_deposit_months}}, utilities {{commercial_utilities_included}}. Parking: {{commercial_parking_spaces}}. Signage: {{commercial_signage_policy}}. Permitted use: {{commercial_permitted_use}}. Contact the landlord for detailed lease documents.

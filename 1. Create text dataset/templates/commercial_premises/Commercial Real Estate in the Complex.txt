@@ -1,0 +1,51 @@
+**Commercial Real Estate in the Complex**
+
+---
+
+### 1. Overview
+
+The development includes non-residential premises on the ground floor designed to serve residents and the surrounding area.
+
+---
+
+### 2. Lot Distribution
+
+- **Number of lots:** {{commercial_lots_count}}
+- **Size range:** {{commercial_size_range}} sqm
+- **Ceiling height:** {{commercial_ceiling_height}} m
+
+---
+
+### 3. Permitted Use
+
+**Permitted use:** {{commercial_permitted_use}}
+
+---
+
+### 4. Rental Rate
+
+**Rental rate:** {{commercial_rental_rate}} (or as otherwise specified in the lease agreement). The rate may vary depending on the lot size, location within the building, and the tenant's business profile. Service charges for common area maintenance, utilities, and security may be billed separately or included in the rent as specified in the lease.
+
+---
+
+### 5. Lease Terms and Fit-Out
+
+Leases are typically concluded for a minimum term of one to three years, with an option to extend. The premises may be delivered in shell-and-core condition, requiring the tenant to carry out fit-out works at their own expense. Tenants must comply with fire safety, building, and zoning regulations when designing and executing fit-out. The landlord may require approval of the fit-out design before work commences.
+
+---
+
+### 6. Utilities and Services
+
+The {{commercial_lots_count}} lots ({{commercial_size_range}} sqm, ceiling {{commercial_ceiling_height}} m) are connected to electricity, water, and sewage. Heating and ventilation may be provided by the central building systems or require tenant-installed equipment. Tenants are usually responsible for their own utility consumption, metered individually. The landlord or management company provides common area services such as cleaning, security, and maintenance of shared facilities. These costs may be passed on to tenants via a service charge in addition to the base rent ({{commercial_rental_rate}}).
+
+---
+
+### 7. Insurance and Liability
+
+Tenants operating under permitted use ({{commercial_permitted_use}}) are typically required to maintain liability insurance covering their operations and any damage to the premises. The lease may specify minimum coverage amounts. The landlord is usually responsible for insuring the building structure, while tenants insure their fit-out, stock, and business interruption. For lots in the {{commercial_size_range}} sqm range ({{commercial_rental_rate}}), insurance costs are typically proportionate to the risk. Tenants should review the insurance provisions carefully and ensure compliance throughout the lease term.
+
+---
+
+### 8. Summary
+
+The commercial premises comprise {{commercial_lots_count}} lots ranging from {{commercial_size_range}} sqm, with a ceiling height of {{commercial_ceiling_height}} m. Permitted uses include {{commercial_permitted_use}}. Rental rates: {{commercial_rental_rate}}. Prospective tenants should contact the developer or management company for availability and detailed terms.

@@ -1,0 +1,51 @@
+**Infrastructure Overview**
+
+---
+
+### 1. Parking
+
+The development provides secure parking facilities for residents and visitors. Details on parking types, capacity, pricing, and electric vehicle charging are available in dedicated parking documentation.
+
+---
+
+### 2. Courtyard and Landscaping
+
+- **Territory:** {{courtyard_area}}
+- **Children's zones:** {{playground_zones}}
+- **Sports:** {{sports_facilities}}
+
+---
+
+### 3. Commercial Services
+
+Ground floor commercial premises: **{{commercial_ground_floor}}**
+
+---
+
+### 4. Utilities and Technical Systems
+
+The development is connected to municipal utilities for electricity, water, heating, and sewage. Parking, bicycle storage, and courtyard facilities ({{courtyard_area}}) are supported by these systems. Technical rooms house equipment for lifts, ventilation, and fire safety. Residents do not typically have direct access to these areas; maintenance is carried out by qualified personnel under contract with the management company.
+
+---
+
+### 5. Accessibility
+
+Common areas are designed to accommodate persons with reduced mobility where required by regulation. Ramps, lifts, and tactile indicators may be provided. Residents with specific accessibility needs should contact the management company to discuss available provisions and any additional arrangements that may be possible.
+
+---
+
+### 6. Waste Management
+
+Waste collection points are located within the territory. Residents are expected to separate waste according to the scheme in place (e.g. recyclables, organic, residual). Collection schedules are published by the management company. Bulky waste and hazardous materials require special disposal arrangements; residents should not leave such items in common areas. Improper disposal may result in penalties.
+
+---
+
+### 7. Lighting and Wayfinding
+
+External lighting illuminates paths, entrances, and common areas for safety and security. Lighting levels comply with relevant standards. Signage indicates building entrances, parking, and emergency exits. Residents should report faulty lighting or missing signs to the management company. Adequate lighting also deters vandalism and supports a sense of security.
+
+---
+
+### 8. Summary
+
+The infrastructure is designed to support a comfortable residential environment with secure parking facilities, {{courtyard_area}} of green space including {{playground_zones}} and {{sports_facilities}}, and on-site commercial services ({{commercial_ground_floor}}). Regular maintenance and upgrades ensure that facilities remain in good condition over time. Residents can contribute to the upkeep by reporting issues promptly and using facilities responsibly.

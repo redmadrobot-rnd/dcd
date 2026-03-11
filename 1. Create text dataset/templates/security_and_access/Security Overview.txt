@@ -1,0 +1,43 @@
+**Security Overview**
+
+---
+
+### 1. Overview
+
+The development is equipped with a comprehensive security and access control system to ensure the safety of residents and their property.
+
+---
+
+### 2. Security Personnel and Patrols
+
+**Security arrangement:** {{security_type}}. **Patrol frequency:** {{security_patrol_frequency}}. **Alarm response time:** {{security_alarm_response_time}}. The security team monitors access points, responds to alarms, and conducts regular patrols of the territory.
+
+---
+
+### 3. Incident Reporting
+
+Residents can report security incidents via: **{{security_incident_reporting}}**. For emergencies, call emergency services first, then notify security. Non-urgent incidents (suspicious activity, minor violations) can be reported through the resident portal or during security rounds.
+
+---
+
+### 4. Intercom and Communication
+
+Each apartment is connected to the building's intercom system, which works in conjunction with the access control system. Residents can communicate with visitors at the entrance before granting access. The intercom may support video, audio, or both. Some systems integrate with smartphones, allowing residents to answer the intercom remotely. Intercom faults should be reported to {{management_company}} for repair.
+
+---
+
+### 5. Perimeter and Territory
+
+The territory may be enclosed by a fence or barrier with controlled entry points. Perimeter lighting and surveillance coverage deter unauthorised access. Residents should not prop open gates or doors or allow unknown persons to enter behind them. Delivery personnel and contractors should be verified before access is granted. Report any breaches or suspicious activity to the management company or security immediately.
+
+---
+
+### 6. Resident Responsibilities
+
+Residents play an important role in security. Do not share your access credentials with anyone. Ensure that entrance doors close properly behind you. Do not admit strangers; use the intercom to verify visitors. Report lost or stolen credentials immediately to {{management_company}}. The security infrastructure provides a strong foundation, but resident vigilance helps keep the community safe. Cooperate with security personnel during drills or incidents.
+
+---
+
+### 7. Summary
+
+The security infrastructure includes {{security_type}}, patrols every {{security_patrol_frequency}}, and alarm response within {{security_alarm_response_time}}. Report incidents via {{security_incident_reporting}}. The management company {{management_company}} oversees the operation of these systems. Residents play an important role in security by not sharing access credentials, reporting suspicious activity, and ensuring that entrance doors close properly behind them.

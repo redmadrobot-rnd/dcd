@@ -1,0 +1,1141 @@
+domains:
+  zhk_sunny_shore:
+    complex_name: Sunny Shore
+    management_company: Sunny Service LLC
+    studio_sizes: 28–34
+    one_bedroom_sizes: 42–51
+    two_bedroom_sizes: 63–78
+    three_bedroom_sizes: 89–105
+    four_bedroom_sizes: —
+    ceiling_height: '2.85'
+    finish_type: whitebox (clean finish without flooring)
+    window_type: double-glazed PVC
+    balcony_availability: most units include balconies or loggias
+    storage_options: built-in wardrobes in bedrooms
+    studio_price: 4.1M
+    one_bedroom_price: 6.3M
+    two_bedroom_price: 9.4M
+    three_bedroom_price: 13.2M
+    four_bedroom_price: —
+    mortgage_down_payment: 15%
+    mortgage_rate: 5.9%
+    partner_bank: Sberbank
+    mortgage_max_term: 30 years
+    mortgage_early_repayment: allowed without penalty after 3 years
+    completion_date: Q4 2025
+    parking_type: Underground
+    parking_spaces: '420'
+    parking_levels: '2'
+    parking_price: 1.35M
+    motorcycle_price: 420K RUB
+    ev_charging_count: '12'
+    bicycle_spaces: 80 spaces
+    parking_violation_fine: 2,000 RUB
+    guest_parking_spots: 15 spaces
+    parking_reservation_fee: 500 RUB per day
+    courtyard_area: 1.8 ha
+    commercial_ground_floor: supermarket, pharmacy, coffee shop, dry cleaner
+    playground_zones: 3 zones for different age groups (0–3, 4–7, 8–12 years)
+    sports_facilities: outdoor gym and tennis court
+    maintenance_tariff: '52'
+    management_company_phone: +7 (495) 123-4567
+    management_office_hours: Mon–Fri 09:00–18:00
+    management_staff_count: 8 staff members
+    emergency_hotline: +7 (495) 123-9999
+    resident_portal: sunny-residents.ru
+    complaint_response_time: within 48 hours
+    commercial_lots_count: '8'
+    commercial_size_range: 45–210
+    commercial_ceiling_height: '4.2'
+    commercial_rental_rate: from 1,800 RUB/sqm per month
+    commercial_permitted_use: retail, services, food & beverage (no bars or nightclubs)
+    commercial_lease_term: minimum 12 months
+    commercial_deposit_months: 2 months
+    commercial_utilities_included: no, billed separately
+    commercial_parking_spaces: 20 spaces for tenants
+    commercial_signage_policy: external signage subject to approval
+    commercial_application_fee: 5,000 RUB
+    commercial_approval_time: 2–3 weeks
+    commercial_contact_email: commercial@sunnyshore.ru
+    acs_type: magnetic keys + SunnyHome mobile app
+    cctv_cameras: '96'
+    cctv_archive_days: '30'
+    security_type: gate checkpoint, 24/7 territory patrol
+    access_card_replacement_fee: 1,000 RUB
+    access_guest_code_duration: 24 hours
+    access_lost_key_procedure: report to management, replacement within 24 hours
+    security_patrol_frequency: every 2 hours
+    security_alarm_response_time: 5 minutes
+    security_incident_reporting: via mobile app or hotline
+    visitor_max_stay_hours: 12 hours without registration
+    visitor_parking_available: yes, limited spaces
+    visitor_registration_required: for stays over 12 hours
+    quiet_hours: 13:00–15:00 and 23:00–07:00 daily
+    renovation_hours: Mon–Fri 09:00–19:00, Sat 10:00–16:00
+    pets_policy: allowed, registration with the management company required
+    smoking_policy: prohibited in lobbies, stairwells, and parking
+    subletting_policy: notify management company 3 business days in advance
+  zhk_northern_star:
+    complex_name: Northern Star
+    management_company: NorthManagement LLC
+    studio_sizes: 24–31
+    one_bedroom_sizes: 38–47
+    two_bedroom_sizes: 58–72
+    three_bedroom_sizes: 84–98
+    four_bedroom_sizes: —
+    ceiling_height: '3.0'
+    finish_type: full turnkey finish, choice of 3 colour packages
+    window_type: triple-glazed aluminum
+    balcony_availability: all units include glazed loggias
+    storage_options: walk-in closets in 2+ bedroom units
+    studio_price: 3.7M
+    one_bedroom_price: 5.8M
+    two_bedroom_price: 8.7M
+    three_bedroom_price: 12.1M
+    four_bedroom_price: —
+    mortgage_down_payment: 10%
+    mortgage_rate: 6.4%
+    partner_bank: VTB
+    mortgage_max_term: 25 years
+    mortgage_early_repayment: allowed anytime, no penalties
+    completion_date: Q2 2026
+    parking_type: Above-ground multi-storey
+    parking_spaces: '310'
+    parking_levels: '4'
+    parking_price: 980K
+    motorcycle_price: —
+    ev_charging_count: 0 (conduit pre-installed)
+    bicycle_spaces: 20 spaces
+    parking_violation_fine: 3,000 RUB
+    guest_parking_spots: 10 spaces
+    parking_reservation_fee: 700 RUB per day
+    courtyard_area: 2.3 ha
+    commercial_ground_floor: paid fitness studio, coffee shop, children's learning centre
+    playground_zones: children's complex with slides and zip line, for ages 3–10
+    sports_facilities: basketball/volleyball court, outdoor pool (summer season)
+    maintenance_tariff: '61'
+    management_company_phone: +7 (495) 234-5678
+    management_office_hours: Mon–Fri 10:00–19:00
+    management_staff_count: 6 staff members
+    emergency_hotline: +7 (495) 234-8888
+    resident_portal: residents-northern-star.ru
+    complaint_response_time: within 72 hours
+    commercial_lots_count: '5'
+    commercial_size_range: 60–180
+    commercial_ceiling_height: '3.6'
+    commercial_rental_rate: 120,000 RUB/sqm (sale)
+    commercial_permitted_use: services and medical only, food & beverage not allowed
+    commercial_lease_term: minimum 24 months
+    commercial_deposit_months: 3 months
+    commercial_utilities_included: heating included, others billed separately
+    commercial_parking_spaces: 15 spaces for tenants
+    commercial_signage_policy: internal signage only, external prohibited
+    commercial_application_fee: 7,500 RUB
+    commercial_approval_time: 3–4 weeks
+    commercial_contact_email: commercial@northern-star.ru
+    acs_type: smart cards + facial recognition (Face ID at turnstiles)
+    cctv_cameras: '64'
+    cctv_archive_days: '14'
+    security_type: entry post, no territory patrol
+    access_card_replacement_fee: 1,500 RUB
+    access_guest_code_duration: 12 hours
+    access_lost_key_procedure: report to security, replacement next business day
+    security_patrol_frequency: no regular patrol
+    security_alarm_response_time: 8 minutes
+    security_incident_reporting: via security post or phone
+    visitor_max_stay_hours: 24 hours without registration
+    visitor_parking_available: yes, 10 spaces
+    visitor_registration_required: for stays over 24 hours
+    quiet_hours: 22:00–08:00 daily, 13:00–15:00 on weekends
+    renovation_hours: Mon–Fri 09:00–18:00, Sat 11:00–15:00, Sun — prohibited
+    pets_policy: dogs up to 25 kg, cats without restriction
+    smoking_policy: strictly prohibited across the entire complex including the courtyard
+    subletting_policy: written permission from the management company required
+  zhk_park_quarter:
+    complex_name: Park Quarter
+    management_company: Park Service Group LLC
+    studio_sizes: —
+    one_bedroom_sizes: 44–56
+    two_bedroom_sizes: 67–85
+    three_bedroom_sizes: 94–118
+    four_bedroom_sizes: 130–155
+    ceiling_height: '2.75'
+    finish_type: shell-and-core; developer finish available at extra cost
+    window_type: double-glazed wood-aluminum composite
+    balcony_availability: penthouse units have terraces
+    storage_options: separate storage rooms available for purchase
+    studio_price: —
+    one_bedroom_price: 7.2M
+    two_bedroom_price: 11.5M
+    three_bedroom_price: 16.8M
+    four_bedroom_price: 22.3M
+    mortgage_down_payment: 20%
+    mortgage_rate: 7.1%
+    partner_bank: Alfa-Bank and Gazprombank
+    mortgage_max_term: 20 years
+    mortgage_early_repayment: allowed with 0.5% fee in first 3 years
+    completion_date: Q1 2025
+    parking_type: Underground
+    parking_spaces: '560'
+    parking_levels: '3'
+    parking_price: 1.65M
+    motorcycle_price: —
+    ev_charging_count: '24'
+    bicycle_spaces: 60 spaces
+    parking_violation_fine: 2,500 RUB
+    guest_parking_spots: 20 spaces
+    parking_reservation_fee: 600 RUB per day
+    courtyard_area: 3.1 ha
+    commercial_ground_floor: restaurant, bakery, spa salon, and bank
+    playground_zones: Monkido playground, climbing wall, trampolines
+    sports_facilities: open-air amphitheatre, ice rink (winter)
+    maintenance_tariff: '74'
+    management_company_phone: +7 (495) 345-6789
+    management_office_hours: Mon–Fri 09:00–20:00, Sat 10:00–16:00
+    management_staff_count: 12 staff members
+    emergency_hotline: +7 (495) 345-7777
+    resident_portal: residents-park-quarter.ru
+    complaint_response_time: within 24 hours
+    commercial_lots_count: '12'
+    commercial_size_range: 35–350
+    commercial_ceiling_height: '4.8'
+    commercial_rental_rate: from 2,400 RUB/sqm per month
+    commercial_permitted_use: any business type except off-licences and bookmakers
+    commercial_lease_term: minimum 18 months
+    commercial_deposit_months: 2 months
+    commercial_utilities_included: no, all billed separately
+    commercial_parking_spaces: 30 spaces for tenants
+    commercial_signage_policy: external signage allowed with design approval
+    commercial_application_fee: 10,000 RUB
+    commercial_approval_time: 2–3 weeks
+    commercial_contact_email: commercial@park-quarter.ru
+    acs_type: Mifare contactless cards + NFC mobile key
+    cctv_cameras: '140'
+    cctv_archive_days: '60'
+    security_type: 2 posts + patrol every 2 hours, panic buttons in lifts and lobbies
+    access_card_replacement_fee: 800 RUB
+    access_guest_code_duration: 48 hours
+    access_lost_key_procedure: report to management, same-day replacement available
+    security_patrol_frequency: every 2 hours
+    security_alarm_response_time: 3 minutes
+    security_incident_reporting: via resident app or 24/7 hotline
+    visitor_max_stay_hours: 8 hours without registration
+    visitor_parking_available: yes, 20 spaces
+    visitor_registration_required: for stays over 8 hours
+    quiet_hours: 23:00–08:00, no afternoon break
+    renovation_hours: Mon–Fri 09:00–20:00, Sat 10:00–17:00, Sun — prohibited
+    pets_policy: all types permitted, no weight limit, registration required
+    smoking_policy: permitted only in the designated courtyard area
+    subletting_policy: Airbnb and short-term rental prohibited (minimum lease term — 6 months)
+  zhk_river_expanse:
+    complex_name: River Expanse
+    management_company: RiverService LLC
+    studio_sizes: 31–39
+    one_bedroom_sizes: 47–59
+    two_bedroom_sizes: 70–88
+    three_bedroom_sizes: 96–112
+    four_bedroom_sizes: —
+    ceiling_height: '2.80'
+    finish_type: whitebox + pre-finish option at +8% to base price
+    studio_price: 4.8M
+    one_bedroom_price: 7.1M
+    two_bedroom_price: 10.6M
+    three_bedroom_price: 14.9M
+    four_bedroom_price: —
+    mortgage_down_payment: 20%
+    mortgage_rate: 6.80%
+    partner_bank: Rosbank, Otkritie Bank
+    completion_date: Q3 2026
+    parking_type: Underground
+    parking_spaces: '390'
+    parking_levels: '2'
+    parking_price: 1.15M
+    motorcycle_price: —
+    ev_charging_count: 0 (not available)
+    bicycle_spaces: covered at each lobby entrance
+    courtyard_area: private embankment 380 m
+    commercial_ground_floor: Perekrestok supermarket, pharmacy 36.6, sushi bar
+    maintenance_tariff: '47'
+    commercial_lots_count: '6'
+    commercial_size_range: 50–140
+    commercial_rental_rate: from 2,100 RUB/sqm per month
+    commercial_ceiling_height: '3.9'
+    commercial_permitted_use: HoReCa, retail, services, fishing goods
+    acs_type: key fob + numeric keypad as backup
+    cctv_cameras: '72'
+    cctv_archive_days: '21'
+    security_type: 1 post at main entrance, embankment patrol at night
+    quiet_hours: 23:00–07:00 weekdays, 00:00–09:00 Friday and Saturday
+    renovation_hours: Mon–Fri 08:00–20:00, Sat–Sun 10:00–16:00
+    pets_policy: allowed, vaccination certificate to be filed with management company
+    smoking_policy: prohibited in lobbies and common areas
+    subletting_policy: notify management company, minimum term 1 month
+    playground_zones: 2 zones themed River Explorers
+    sports_facilities: football cage, outdoor fitness equipment, boat pier, fishing zone
+    window_type: triple-glazed PVC with warm edge
+    balcony_availability: all units include glazed loggias
+    storage_options: utility rooms in larger apartments
+    mortgage_max_term: 30 years
+    mortgage_early_repayment: allowed with 0.5% fee in first 3 years
+    parking_violation_fine: 1,500 RUB
+    guest_parking_spots: 14 spaces
+    parking_reservation_fee: 400 RUB per day
+    management_company_phone: +7 (495) 703-5719
+    management_office_hours: Mon–Fri 09:00–18:00, Sat 10:00–15:00
+    management_staff_count: 9 staff members
+    emergency_hotline: +7 (495) 172-9942
+    resident_portal: residents-river-expanse.ru
+    complaint_response_time: within 72 hours
+    commercial_lease_term: minimum 18 months
+    commercial_deposit_months: 3 months
+    commercial_utilities_included: heating included, others billed separately
+    commercial_parking_spaces: 40 spaces for tenants
+    commercial_signage_policy: signage permitted per building standards
+    commercial_application_fee: 7,500 RUB
+    commercial_approval_time: 1–2 weeks
+    commercial_contact_email: commercial@river-expanse.ru
+    access_card_replacement_fee: 1200 RUB
+    access_guest_code_duration: 72 hours
+    access_lost_key_procedure: report to management, same-day replacement available
+    security_patrol_frequency: no regular patrol
+    security_alarm_response_time: 5 minutes
+    security_incident_reporting: via security post or phone
+    visitor_max_stay_hours: 8 hours without registration
+    visitor_parking_available: yes, 13 spaces
+    visitor_registration_required: for stays over 24 hours
+  zhk_forest_retreat:
+    complex_name: Forest Retreat
+    management_company: ForestCom LLC
+    studio_sizes: —
+    one_bedroom_sizes: 40–52
+    two_bedroom_sizes: 60–76
+    three_bedroom_sizes: 82–100
+    four_bedroom_sizes: —
+    ceiling_height: '2.90'
+    finish_type: full turnkey, Scandinavian style, choice of 2 colour palettes
+    studio_price: —
+    one_bedroom_price: 6.5M
+    two_bedroom_price: 9.9M
+    three_bedroom_price: 13.8M
+    four_bedroom_price: —
+    mortgage_down_payment: 25%
+    mortgage_rate: 7.00%
+    partner_bank: Sberbank, Rosselkhozbank
+    completion_date: Q2 2025
+    parking_type: Surface
+    parking_spaces: '180'
+    parking_levels: '1'
+    parking_price: 550K
+    motorcycle_price: —
+    ev_charging_count: 0 (planned)
+    bicycle_spaces: 15 spaces
+    courtyard_area: 4.2 ha
+    commercial_ground_floor: grocery store, veterinary clinic
+    maintenance_tariff: '44'
+    commercial_lots_count: '3'
+    commercial_size_range: 30–65
+    commercial_rental_rate: from 1,600 RUB/sqm per month
+    commercial_ceiling_height: '3.0'
+    commercial_permitted_use: eco-friendly businesses only
+    acs_type: key card only, no mobile app
+    cctv_cameras: '40'
+    cctv_archive_days: '7'
+    security_type: 1 post, daytime only (08:00–22:00)
+    quiet_hours: 22:00–08:00, public holidays 00:00–09:00
+    renovation_hours: Mon–Sat 09:00–19:00, Sun — prohibited
+    pets_policy: allowed; mandatory lead in the forest zone
+    smoking_policy: open fires and barbecues prohibited (fire hazard zone)
+    subletting_policy: unrestricted, no notification to management company required
+    playground_zones: timber structures in forest village theme
+    sports_facilities: eco trail 1.1 km, 400 m running track
+    window_type: double-glazed PVC
+    balcony_availability: all units include glazed loggias
+    storage_options: built-in storage cupboards
+    mortgage_max_term: 20 years
+    mortgage_early_repayment: allowed with 0.5% fee in first 3 years
+    parking_violation_fine: 2,000 RUB
+    guest_parking_spots: 18 spaces
+    parking_reservation_fee: 700 RUB per day
+    management_company_phone: +7 (495) 542-8493
+    management_office_hours: Mon–Fri 09:00–18:00
+    management_staff_count: 9 staff members
+    emergency_hotline: +7 (495) 914-7024
+    resident_portal: residents-forest-retreat.ru
+    complaint_response_time: within 24 hours
+    commercial_lease_term: minimum 18 months
+    commercial_deposit_months: 3 months
+    commercial_utilities_included: heating included, others billed separately
+    commercial_parking_spaces: 21 spaces for tenants
+    commercial_signage_policy: external signage allowed with design approval
+    commercial_application_fee: 12,500 RUB
+    commercial_approval_time: 3–4 weeks
+    commercial_contact_email: commercial@forest-retreat.ru
+    access_card_replacement_fee: 2000 RUB
+    access_guest_code_duration: 24 hours
+    access_lost_key_procedure: report to management, replacement within 24 hours
+    security_patrol_frequency: every 4 hours
+    security_alarm_response_time: 3 minutes
+    security_incident_reporting: via resident app or 24/7 hotline
+    visitor_max_stay_hours: 24 hours without registration
+    visitor_parking_available: yes, 24 spaces
+    visitor_registration_required: for stays over 12 hours
+  zhk_city_skyline:
+    complex_name: City Skyline
+    management_company: Skyline Management LLC
+    studio_sizes: 22–28
+    one_bedroom_sizes: 36–44
+    two_bedroom_sizes: 55–68
+    three_bedroom_sizes: 78–92
+    four_bedroom_sizes: —
+    ceiling_height: '2.7'
+    finish_type: full turnkey, neutral colour scheme
+    studio_price: 5.2M
+    one_bedroom_price: 7.6M
+    two_bedroom_price: 11.2M
+    three_bedroom_price: 15.4M
+    four_bedroom_price: —
+    mortgage_down_payment: 10%
+    mortgage_rate: 6.9%
+    partner_bank: Tinkoff Bank
+    completion_date: Q4 2024
+    parking_type: Underground
+    parking_spaces: '220'
+    parking_levels: '1'
+    parking_price: 2.1M
+    motorcycle_price: —
+    ev_charging_count: '8'
+    bicycle_spaces: none
+    courtyard_area: 0.9 ha
+    commercial_ground_floor: co-working space, Surf Coffee, wine bar, sushi delivery
+    maintenance_tariff: '88'
+    commercial_lots_count: '10'
+    commercial_size_range: 20–95
+    commercial_rental_rate: from 3,200–4,500 RUB/sqm per month
+    commercial_ceiling_height: '3.22'
+    commercial_permitted_use: all lots leased from launch
+    acs_type: Face ID + smartphone + physical key (3 methods)
+    cctv_cameras: '120'
+    cctv_archive_days: '46'
+    security_type: Concierge doubles as security; no additional posts
+    quiet_hours: 23:00–08:00 daily
+    renovation_hours: prohibited at weekends, weekdays 10:00–19:00
+    pets_policy: cats and small dogs only (up to 10 kg)
+    smoking_policy: prohibited, including on balconies and the roof garden
+    subletting_policy: short-term Airbnb permitted with management company notification
+    playground_zones: 1 zone for ages 0–8
+    sports_facilities: nearest fitness club 200 m away; roof garden lounge zone
+    window_type: double-glazed PVC
+    balcony_availability: penthouse units have terraces
+    storage_options: separate storage rooms available for purchase
+    mortgage_max_term: 20 years
+    mortgage_early_repayment: allowed with 0.5% fee in first 3 years
+    parking_violation_fine: 1,500 RUB
+    guest_parking_spots: 12 spaces
+    parking_reservation_fee: 500 RUB per day
+    management_company_phone: +7 (495) 683-9741
+    management_office_hours: Mon–Fri 10:00–19:00
+    management_staff_count: 6 staff members
+    emergency_hotline: +7 (495) 166-8096
+    resident_portal: residents-city-skyline.ru
+    complaint_response_time: within 72 hours
+    commercial_lease_term: minimum 36 months
+    commercial_deposit_months: 2 months
+    commercial_utilities_included: no, billed separately
+    commercial_parking_spaces: 17 spaces for tenants
+    commercial_signage_policy: external signage allowed with design approval
+    commercial_application_fee: 15,000 RUB
+    commercial_approval_time: 3–4 weeks
+    commercial_contact_email: commercial@city-skyline.ru
+    access_card_replacement_fee: 1000 RUB
+    access_guest_code_duration: 72 hours
+    access_lost_key_procedure: report to security, replacement next business day
+    security_patrol_frequency: every 3 hours
+    security_alarm_response_time: 10 minutes
+    security_incident_reporting: via resident app or 24/7 hotline
+    visitor_max_stay_hours: 12 hours without registration
+    visitor_parking_available: yes, 22 spaces
+    visitor_registration_required: for stays over 8 hours
+  zhk_central_park:
+    complex_name: Central Park
+    management_company: CPK Management LLC
+    studio_sizes: —
+    one_bedroom_sizes: 48–61
+    two_bedroom_sizes: 72–91
+    three_bedroom_sizes: 103–128
+    four_bedroom_sizes: 145–172
+    ceiling_height: '3.20'
+    finish_type: Premium turnkey with parquet, built-in kitchen, underfloor heating
+    studio_price: —
+    one_bedroom_price: 11.4M
+    two_bedroom_price: 17.2M
+    three_bedroom_price: 24.6M
+    four_bedroom_price: 34.8M
+    mortgage_down_payment: 30%
+    mortgage_rate: 7.3%
+    partner_bank: Sovcombank, Uralsib
+    completion_date: Q1 2026
+    parking_type: Underground
+    parking_spaces: '710'
+    parking_levels: '3'
+    parking_price: 2.4M
+    motorcycle_price: —
+    ev_charging_count: '36'
+    bicycle_spaces: not specified
+    courtyard_area: 5.8 ha
+    commercial_ground_floor: fine-dining restaurant, boutique, private clinic
+    maintenance_tariff: '112'
+    commercial_lots_count: '15'
+    commercial_size_range: 40–500
+    commercial_rental_rate: from 4,800 RUB/sqm per month
+    commercial_ceiling_height: '5.4'
+    commercial_permitted_use: Premium and business-class operators only
+    acs_type: Face ID + fingerprint + smart card (biometric integration)
+    cctv_cameras: '200'
+    cctv_archive_days: '90'
+    security_type: 3 posts + traffic police coordination, 4-min response
+    quiet_hours: 22:00–09:00 daily
+    renovation_hours: weekdays only 10:00–18:00, project sign-off by management required
+    pets_policy: dogs up to 15 kg and cats only; reptiles prohibited
+    smoking_policy: prohibited in common areas
+    subletting_policy: Airbnb and short-term rental strictly prohibited
+    playground_zones: children's club with professional educators
+    sports_facilities: covered tennis court, outdoor gym
+    window_type: double-glazed PVC
+    balcony_availability: selected units have French balconies
+    storage_options: built-in storage cupboards
+    mortgage_max_term: 25 years
+    mortgage_early_repayment: allowed anytime, no penalties
+    parking_violation_fine: 1,500 RUB
+    guest_parking_spots: 12 spaces
+    parking_reservation_fee: 400 RUB per day
+    management_company_phone: +7 (495) 260-9711
+    management_office_hours: Mon–Fri 09:00–20:00, Sat 10:00–16:00
+    management_staff_count: 6 staff members
+    emergency_hotline: +7 (495) 501-9389
+    resident_portal: residents-central-park.ru
+    complaint_response_time: within 2 business days
+    commercial_lease_term: minimum 24 months
+    commercial_deposit_months: 3 months
+    commercial_utilities_included: heating included, others billed separately
+    commercial_parking_spaces: 21 spaces for tenants
+    commercial_signage_policy: internal signage only, external prohibited
+    commercial_application_fee: 7,500 RUB
+    commercial_approval_time: 1–2 weeks
+    commercial_contact_email: commercial@central-park.ru
+    access_card_replacement_fee: 1000 RUB
+    access_guest_code_duration: 48 hours
+    access_lost_key_procedure: report to management, replacement within 24 hours
+    security_patrol_frequency: no regular patrol
+    security_alarm_response_time: 5 minutes
+    security_incident_reporting: via security post or phone
+    visitor_max_stay_hours: 24 hours without registration
+    visitor_parking_available: yes, 25 spaces
+    visitor_registration_required: for stays over 8 hours
+  zhk_new_horizons:
+    complex_name: New Horizons
+    management_company: NovService LLC
+    studio_sizes: 26–33
+    one_bedroom_sizes: 41–50
+    two_bedroom_sizes: 61–75
+    three_bedroom_sizes: 83–97
+    four_bedroom_sizes: —
+    ceiling_height: '2.81'
+    finish_type: with and without finish available
+    studio_price: 3.9M
+    one_bedroom_price: 6.1M
+    two_bedroom_price: 9.2M
+    three_bedroom_price: 12.8M
+    four_bedroom_price: —
+    mortgage_down_payment: 15%
+    mortgage_rate: 6.7%
+    partner_bank: MTS Bank, Promsvyazbank
+    completion_date: Q3 2025
+    parking_type: Underground
+    parking_spaces: '480'
+    parking_levels: '2'
+    parking_price: 1.25M
+    motorcycle_price: —
+    ev_charging_count: 0 (on request)
+    bicycle_spaces: 12 spaces
+    courtyard_area: 2.0 ha
+    commercial_ground_floor: VkusVill grocery store, private kindergarten, barbershop, MFC
+    maintenance_tariff: '55'
+    commercial_lots_count: '9'
+    commercial_size_range: 40–160
+    commercial_rental_rate: from 1,950 RUB/sqm per month
+    commercial_ceiling_height: '3.52'
+    commercial_permitted_use: pharmacy, food & beverage, retail, household services
+    acs_type: magnetic key + PIN code as backup
+    cctv_cameras: '88'
+    cctv_archive_days: '32'
+    security_type: gate post, 24/7
+    quiet_hours: 23:00–07:00 weekdays, 23:00–09:00 weekends
+    renovation_hours: Mon–Fri 09:00–19:00, Sat 10:00–17:00, Sun — prohibited
+    pets_policy: allowed; muzzle mandatory for large breeds
+    smoking_policy: prohibited in lobbies, permitted on balconies and in designated zones
+    subletting_policy: permitted, notify management company 1 week in advance
+    playground_zones: 2 zones for ages 2–4 and 5–12, Kompan equipment
+    sports_facilities: basketball court, street workout area
+    window_type: triple-glazed PVC with warm edge
+    balcony_availability: penthouse units have terraces
+    storage_options: built-in wardrobes in bedrooms
+    mortgage_max_term: 30 years
+    mortgage_early_repayment: allowed after 1 year without penalty
+    parking_violation_fine: 2,500 RUB
+    guest_parking_spots: 24 spaces
+    parking_reservation_fee: 800 RUB per day
+    management_company_phone: +7 (495) 424-4976
+    management_office_hours: Mon–Fri 09:00–18:00
+    management_staff_count: 13 staff members
+    emergency_hotline: +7 (495) 473-8106
+    resident_portal: residents-new-horizons.ru
+    complaint_response_time: within 1 business day
+    commercial_lease_term: minimum 18 months
+    commercial_deposit_months: 2 months
+    commercial_utilities_included: heating included, others billed separately
+    commercial_parking_spaces: 22 spaces for tenants
+    commercial_signage_policy: external signage subject to approval
+    commercial_application_fee: 7,500 RUB
+    commercial_approval_time: 1–2 weeks
+    commercial_contact_email: commercial@new-horizons.ru
+    access_card_replacement_fee: 1000 RUB
+    access_guest_code_duration: 48 hours
+    access_lost_key_procedure: report to security, replacement next business day
+    security_patrol_frequency: every 4 hours
+    security_alarm_response_time: 8 minutes
+    security_incident_reporting: via mobile app or hotline
+    visitor_max_stay_hours: 8 hours without registration
+    visitor_parking_available: yes, 20 spaces
+    visitor_registration_required: for stays over 12 hours
+  zhk_silver_spring:
+    complex_name: Silver Spring
+    management_company: FamilyService LLC
+    studio_sizes: —
+    one_bedroom_sizes: —
+    two_bedroom_sizes: 65–80
+    three_bedroom_sizes: 88–108
+    four_bedroom_sizes: 118–142
+    ceiling_height: '2.95'
+    finish_type: Comfort-Plus turnkey, underfloor heating in bathrooms
+    studio_price: —
+    one_bedroom_price: —
+    two_bedroom_price: 9.8M
+    three_bedroom_price: 14.2M
+    four_bedroom_price: 19.5M
+    mortgage_down_payment: 20%
+    mortgage_rate: 6.05%
+    partner_bank: Family mortgage programme
+    completion_date: Q4 2025
+    parking_type: Underground
+    parking_spaces: '530'
+    parking_levels: '2'
+    parking_price: 1.5M
+    motorcycle_price: —
+    ev_charging_count: '16'
+    bicycle_spaces: not specified
+    courtyard_area: 3.5 ha
+    commercial_ground_floor: children's pool, early learning, clubs
+    maintenance_tariff: '58'
+    commercial_lots_count: '7'
+    commercial_size_range: 45–200
+    commercial_rental_rate: from 2,200 RUB/sqm per month
+    commercial_ceiling_height: '4.05'
+    commercial_permitted_use: children's goods, healthcare, education, grocery, café
+    acs_type: smart card + children's wristband (child tracking)
+    cctv_cameras: '110'
+    cctv_archive_days: '31'
+    security_type: 2 posts, patrol every 3 hours
+    quiet_hours: 13:00–15:00 and 22:00–08:00
+    renovation_hours: Mon–Fri 09:00–19:00, Sat 10:00–15:00
+    pets_policy: allowed; large breeds must wear muzzles near children's zones
+    smoking_policy: prohibited in lobbies
+    subletting_policy: prohibited during first 2 years after key handover
+    playground_zones: Silver Key children's town with slides, mazes, trampolines
+    sports_facilities: toddler playground 0–2, school and kindergarten within 100 m
+    window_type: energy-efficient double-glazed
+    balcony_availability: penthouse units have terraces
+    storage_options: built-in wardrobes in bedrooms
+    mortgage_max_term: 30 years
+    mortgage_early_repayment: allowed with progressive fee (3% year 1, 2% year 2, 0% after)
+    parking_violation_fine: 1,500 RUB
+    guest_parking_spots: 18 spaces
+    parking_reservation_fee: 500 RUB per day
+    management_company_phone: +7 (495) 972-4279
+    management_office_hours: Mon–Fri 09:00–18:00
+    management_staff_count: 11 staff members
+    emergency_hotline: +7 (495) 872-9410
+    resident_portal: residents-silver-spring.ru
+    complaint_response_time: within 24 hours
+    commercial_lease_term: minimum 12 months
+    commercial_deposit_months: 2 months
+    commercial_utilities_included: no, billed separately
+    commercial_parking_spaces: 32 spaces for tenants
+    commercial_signage_policy: external signage allowed with design approval
+    commercial_application_fee: 15,000 RUB
+    commercial_approval_time: 3–4 weeks
+    commercial_contact_email: commercial@silver-spring.ru
+    access_card_replacement_fee: 800 RUB
+    access_guest_code_duration: 24 hours
+    access_lost_key_procedure: report to management, replacement within 24 hours
+    security_patrol_frequency: every 4 hours
+    security_alarm_response_time: 3 minutes
+    security_incident_reporting: via management portal or emergency line
+    visitor_max_stay_hours: 8 hours without registration
+    visitor_parking_available: yes, 12 spaces
+    visitor_registration_required: for stays over 24 hours
+  zhk_green_grove:
+    complex_name: Green Grove
+    management_company: EcoHome LLC
+    studio_sizes: 27–35
+    one_bedroom_sizes: 43–54
+    two_bedroom_sizes: 64–80
+    three_bedroom_sizes: 86–103
+    four_bedroom_sizes: —
+    ceiling_height: '2.86'
+    finish_type: pre-finish shell with Green Finish option
+    studio_price: 4.3M
+    one_bedroom_price: 6.6M
+    two_bedroom_price: 10.1M
+    three_bedroom_price: 13.9M
+    four_bedroom_price: —
+    mortgage_down_payment: 15%
+    mortgage_rate: 7.02%
+    partner_bank: DOM.RF Bank
+    completion_date: Q2 2026
+    parking_type: Underground
+    parking_spaces: '340'
+    parking_levels: '1'
+    parking_price: 1.1M
+    motorcycle_price: —
+    ev_charging_count: '20'
+    bicycle_spaces: 100 spaces
+    courtyard_area: 2.6 ha
+    commercial_ground_floor: organic supermarket, yoga studio, bicycle repair shop
+    maintenance_tariff: '50'
+    commercial_lots_count: '8'
+    commercial_size_range: 35–170
+    commercial_rental_rate: from 1,750 RUB/sqm per month
+    commercial_ceiling_height: '3.82'
+    commercial_permitted_use: ESG-certified operators only
+    acs_type: biodegradable wooden NFC cards + smartphone
+    cctv_cameras: '76'
+    cctv_archive_days: '22'
+    security_type: 1 post, 24/7, staff uniform from recycled materials
+    quiet_hours: 23:00–07:00 daily
+    renovation_hours: Mon–Fri 09:00–19:00, Sat 10:00–15:00
+    pets_policy: allowed; chemical pest-control products prohibited in courtyard
+    smoking_policy: single-use plastic and phosphate-based chemicals prohibited
+    subletting_policy: permitted; tenants recommended basic green-living programme
+    playground_zones: natural timber and rope elements, no plastic
+    sports_facilities: community garden 40 allotments, composting area, recycling
+    window_type: double-glazed wood-aluminum composite
+    balcony_availability: balconies available in 70% of units
+    storage_options: built-in storage cupboards
+    mortgage_max_term: 25 years
+    mortgage_early_repayment: allowed anytime, no penalties
+    parking_violation_fine: 3,000 RUB
+    guest_parking_spots: 23 spaces
+    parking_reservation_fee: 400 RUB per day
+    management_company_phone: +7 (495) 981-2390
+    management_office_hours: Mon–Fri 09:00–18:00, Sat 10:00–15:00
+    management_staff_count: 15 staff members
+    emergency_hotline: +7 (495) 472-7282
+    resident_portal: residents-green-grove.ru
+    complaint_response_time: within 2 business days
+    commercial_lease_term: minimum 24 months
+    commercial_deposit_months: 2 months
+    commercial_utilities_included: no, billed separately
+    commercial_parking_spaces: 35 spaces for tenants
+    commercial_signage_policy: external signage subject to approval
+    commercial_application_fee: 7,500 RUB
+    commercial_approval_time: 2–4 weeks
+    commercial_contact_email: commercial@green-grove.ru
+    access_card_replacement_fee: 800 RUB
+    access_guest_code_duration: 24 hours
+    access_lost_key_procedure: report immediately, replacement within 48 hours
+    security_patrol_frequency: every 3 hours
+    security_alarm_response_time: 8 minutes
+    security_incident_reporting: via resident app or 24/7 hotline
+    visitor_max_stay_hours: 8 hours without registration
+    visitor_parking_available: yes, 14 spaces
+    visitor_registration_required: for stays over 24 hours
+  zhk_golden_cove:
+    complex_name: Golden Cove
+    management_company: Cove Management LLC
+    studio_sizes: 30–36
+    one_bedroom_sizes: 45–55
+    two_bedroom_sizes: 68–82
+    three_bedroom_sizes: 92–108
+    four_bedroom_sizes: 125–148
+    ceiling_height: '2.91'
+    finish_type: full turnkey, Mediterranean style
+    studio_price: 4.5M
+    one_bedroom_price: 6.8M
+    two_bedroom_price: 10.2M
+    three_bedroom_price: 14.5M
+    four_bedroom_price: 20.1M
+    mortgage_down_payment: 15%
+    mortgage_rate: 6.2%
+    partner_bank: Raiffeisenbank
+    completion_date: Q2 2026
+    parking_type: Underground
+    parking_spaces: '380'
+    parking_levels: '2'
+    parking_price: 1.28M
+    motorcycle_price: 380K RUB
+    ev_charging_count: '18'
+    bicycle_spaces: 45 spaces
+    courtyard_area: 2.2 ha
+    commercial_ground_floor: deli, wine shop, beauty salon, dental clinic
+    maintenance_tariff: '54'
+    commercial_lots_count: '7'
+    commercial_size_range: 42–185
+    commercial_rental_rate: from 2,050 RUB/sqm per month
+    commercial_ceiling_height: '4.10'
+    commercial_permitted_use: retail, services, HoReCa, medical
+    acs_type: smart card + mobile app
+    cctv_cameras: '85'
+    cctv_archive_days: '28'
+    security_type: gate post + evening patrol
+    quiet_hours: 22:30–07:30 daily
+    renovation_hours: Mon–Fri 09:00–19:00, Sat 10:00–17:00
+    pets_policy: allowed, dogs up to 30 kg
+    smoking_policy: prohibited in lobbies and common areas
+    subletting_policy: permitted, notify management 5 days in advance
+    playground_zones: 2 zones, ages 2–6 and 7–12
+    sports_facilities: outdoor pool, beach volleyball court
+    window_type: triple-glazed PVC with warm edge
+    balcony_availability: all units include glazed loggias
+    storage_options: built-in storage cupboards
+    mortgage_max_term: 20 years
+    mortgage_early_repayment: allowed after 1 year without penalty
+    parking_violation_fine: 2,500 RUB
+    guest_parking_spots: 15 spaces
+    parking_reservation_fee: 800 RUB per day
+    management_company_phone: +7 (495) 188-3718
+    management_office_hours: Mon–Fri 09:00–20:00, Sat 10:00–16:00
+    management_staff_count: 15 staff members
+    emergency_hotline: +7 (495) 363-8075
+    resident_portal: residents-golden-cove.ru
+    complaint_response_time: within 2 business days
+    commercial_lease_term: minimum 36 months
+    commercial_deposit_months: 2 months
+    commercial_utilities_included: water included, others billed separately
+    commercial_parking_spaces: 29 spaces for tenants
+    commercial_signage_policy: signage permitted per building standards
+    commercial_application_fee: 12,500 RUB
+    commercial_approval_time: 1–2 weeks
+    commercial_contact_email: commercial@golden-cove.ru
+    access_card_replacement_fee: 800 RUB
+    access_guest_code_duration: 12 hours
+    access_lost_key_procedure: report to management, replacement within 24 hours
+    security_patrol_frequency: hourly during night
+    security_alarm_response_time: 5 minutes
+    security_incident_reporting: via resident app or 24/7 hotline
+    visitor_max_stay_hours: 12 hours without registration
+    visitor_parking_available: yes, 21 spaces
+    visitor_registration_required: for stays over 24 hours
+  zhk_urban_haven:
+    complex_name: Urban Haven
+    management_company: UrbanService Pro LLC
+    studio_sizes: 25–32
+    one_bedroom_sizes: 40–50
+    two_bedroom_sizes: 62–76
+    three_bedroom_sizes: 88–102
+    four_bedroom_sizes: —
+    ceiling_height: '2.76'
+    finish_type: whitebox, designer finish package optional
+    studio_price: 5.8M
+    one_bedroom_price: 8.2M
+    two_bedroom_price: 12.1M
+    three_bedroom_price: 16.5M
+    four_bedroom_price: —
+    mortgage_down_payment: 20%
+    mortgage_rate: 6.5%
+    partner_bank: Alfa-Bank
+    completion_date: Q4 2025
+    parking_type: Underground
+    parking_spaces: '290'
+    parking_levels: '2'
+    parking_price: 1.85M
+    motorcycle_price: —
+    ev_charging_count: '14'
+    bicycle_spaces: 35 spaces
+    courtyard_area: 1.2 ha
+    commercial_ground_floor: Starbucks, pharmacy, dry cleaner, coworking
+    maintenance_tariff: '72'
+    commercial_lots_count: '11'
+    commercial_size_range: 25–120
+    commercial_rental_rate: from 3,500 RUB/sqm per month
+    commercial_ceiling_height: '3.55'
+    commercial_permitted_use: retail, F&B, services, coworking
+    acs_type: Face ID + smartphone
+    cctv_cameras: '95'
+    cctv_archive_days: '35'
+    security_type: concierge 24/7, no separate security post
+    quiet_hours: 23:00–07:30 daily
+    renovation_hours: Mon–Fri 10:00–18:00, weekends prohibited
+    pets_policy: cats and small dogs up to 12 kg
+    smoking_policy: prohibited everywhere including balconies
+    subletting_policy: short-term rental permitted with management approval
+    playground_zones: 1 compact zone for ages 2–8
+    sports_facilities: rooftop yoga deck, gym 150 m away
+    window_type: triple-glazed PVC with warm edge
+    balcony_availability: balconies available in 70% of units
+    storage_options: utility rooms in larger apartments
+    mortgage_max_term: 30 years
+    mortgage_early_repayment: allowed anytime, no penalties
+    parking_violation_fine: 1,500 RUB
+    guest_parking_spots: 17 spaces
+    parking_reservation_fee: 800 RUB per day
+    management_company_phone: +7 (495) 592-5169
+    management_office_hours: Mon–Fri 10:00–19:00
+    management_staff_count: 8 staff members
+    emergency_hotline: +7 (495) 885-9285
+    resident_portal: residents-urban-haven.ru
+    complaint_response_time: within 72 hours
+    commercial_lease_term: minimum 18 months
+    commercial_deposit_months: 2 months
+    commercial_utilities_included: no, billed separately
+    commercial_parking_spaces: 35 spaces for tenants
+    commercial_signage_policy: signage permitted per building standards
+    commercial_application_fee: 15,000 RUB
+    commercial_approval_time: 2–3 weeks
+    commercial_contact_email: commercial@urban-haven.ru
+    access_card_replacement_fee: 800 RUB
+    access_guest_code_duration: 72 hours
+    access_lost_key_procedure: report to management, same-day replacement available
+    security_patrol_frequency: every 2 hours
+    security_alarm_response_time: 5 minutes
+    security_incident_reporting: via security post or phone
+    visitor_max_stay_hours: 8 hours without registration
+    visitor_parking_available: yes, 10 spaces
+    visitor_registration_required: for stays over 8 hours
+  zhk_meadow_brook:
+    complex_name: Meadow Brook
+    management_company: MeadowCom LLC
+    studio_sizes: —
+    one_bedroom_sizes: 42–54
+    two_bedroom_sizes: 65–82
+    three_bedroom_sizes: 90–112
+    four_bedroom_sizes: 128–155
+    ceiling_height: '2.97'
+    finish_type: full turnkey, country house style
+    studio_price: —
+    one_bedroom_price: 5.9M
+    two_bedroom_price: 9.2M
+    three_bedroom_price: 12.8M
+    four_bedroom_price: 18.2M
+    mortgage_down_payment: 10%
+    mortgage_rate: 6.02%
+    partner_bank: Sberbank, DOM.RF
+    completion_date: Q1 2026
+    parking_type: Surface
+    parking_spaces: '240'
+    parking_levels: '1'
+    parking_price: 480K
+    motorcycle_price: —
+    ev_charging_count: '9'
+    bicycle_spaces: 25 spaces
+    courtyard_area: 3.8 ha
+    commercial_ground_floor: farmers market, bakery, pet shop
+    maintenance_tariff: '42'
+    commercial_lots_count: '4'
+    commercial_size_range: 55–95
+    commercial_rental_rate: from 1,450 RUB/sqm per month
+    commercial_ceiling_height: '3.25'
+    commercial_permitted_use: grocery, services, F&B, no alcohol
+    acs_type: key fob + intercom
+    cctv_cameras: '48'
+    cctv_archive_days: '15'
+    security_type: 1 post, 08:00–22:00
+    quiet_hours: 22:00–08:00, 13:00–15:00 afternoon break
+    renovation_hours: Mon–Sat 09:00–18:00, Sun prohibited
+    pets_policy: all pets allowed, no restrictions
+    smoking_policy: designated smoking zones in courtyard
+    subletting_policy: unrestricted
+    playground_zones: 3 zones, farm theme, ages 1–12
+    sports_facilities: football pitch, bike path 2 km
+    window_type: double-glazed wood-aluminum composite
+    balcony_availability: selected units have French balconies
+    storage_options: built-in wardrobes in bedrooms
+    mortgage_max_term: 20 years
+    mortgage_early_repayment: allowed without penalty after 3 years
+    parking_violation_fine: 2,000 RUB
+    guest_parking_spots: 24 spaces
+    parking_reservation_fee: 500 RUB per day
+    management_company_phone: +7 (495) 324-9443
+    management_office_hours: Mon–Fri 09:00–18:00
+    management_staff_count: 9 staff members
+    emergency_hotline: +7 (495) 436-7663
+    resident_portal: residents-meadow-brook.ru
+    complaint_response_time: within 1 business day
+    commercial_lease_term: minimum 18 months
+    commercial_deposit_months: 3 months
+    commercial_utilities_included: no, all billed separately
+    commercial_parking_spaces: 19 spaces for tenants
+    commercial_signage_policy: internal signage only, external prohibited
+    commercial_application_fee: 7,500 RUB
+    commercial_approval_time: 2–4 weeks
+    commercial_contact_email: commercial@meadow-brook.ru
+    access_card_replacement_fee: 800 RUB
+    access_guest_code_duration: 24 hours
+    access_lost_key_procedure: report to security, replacement next business day
+    security_patrol_frequency: every 2 hours
+    security_alarm_response_time: 8 minutes
+    security_incident_reporting: via management portal or emergency line
+    visitor_max_stay_hours: 24 hours without registration
+    visitor_parking_available: yes, 18 spaces
+    visitor_registration_required: for stays over 24 hours
+  zhk_marina_view:
+    complex_name: Marina View
+    management_company: MarinaService LLC
+    studio_sizes: 32–38
+    one_bedroom_sizes: 48–60
+    two_bedroom_sizes: 72–90
+    three_bedroom_sizes: 98–118
+    four_bedroom_sizes: —
+    ceiling_height: '3.05'
+    finish_type: premium turnkey, nautical theme
+    studio_price: 6.2M
+    one_bedroom_price: 9.1M
+    two_bedroom_price: 13.5M
+    three_bedroom_price: 18.9M
+    four_bedroom_price: —
+    mortgage_down_payment: 25%
+    mortgage_rate: 6.85%
+    partner_bank: VTB, Gazprombank
+    completion_date: Q3 2026
+    parking_type: Underground
+    parking_spaces: '410'
+    parking_levels: '2'
+    parking_price: 1.55M
+    motorcycle_price: 450K RUB
+    ev_charging_count: '22'
+    bicycle_spaces: 55 spaces
+    courtyard_area: 1.5 ha + marina berths
+    commercial_ground_floor: yacht club office, seafood restaurant, marine supplies
+    maintenance_tariff: '68'
+    commercial_lots_count: '6'
+    commercial_size_range: 60–220
+    commercial_rental_rate: from 2,800 RUB/sqm per month
+    commercial_ceiling_height: '4.5'
+    commercial_permitted_use: marina services, HoReCa, retail, marine
+    acs_type: smart card + fingerprint + marina pass
+    cctv_cameras: '92'
+    cctv_archive_days: '47'
+    security_type: 2 posts, marina patrol 24/7
+    quiet_hours: 22:30–08:00 daily
+    renovation_hours: Mon–Fri 09:00–18:00, Sat 10:00–15:00
+    pets_policy: allowed, marina area dog-friendly
+    smoking_policy: prohibited in lobbies
+    subletting_policy: permitted, 2 weeks notice
+    playground_zones: 2 zones, marina theme
+    sports_facilities: marina, sailing school, beach volleyball
+    window_type: double-glazed wood-aluminum composite
+    balcony_availability: penthouse units have terraces
+    storage_options: separate storage rooms available for purchase
+    mortgage_max_term: 30 years
+    mortgage_early_repayment: allowed anytime, no penalties
+    parking_violation_fine: 1,500 RUB
+    guest_parking_spots: 14 spaces
+    parking_reservation_fee: 600 RUB per day
+    management_company_phone: +7 (495) 258-9300
+    management_office_hours: Mon–Fri 09:00–18:00, Sat 10:00–15:00
+    management_staff_count: 11 staff members
+    emergency_hotline: +7 (495) 573-9377
+    resident_portal: residents-marina-view.ru
+    complaint_response_time: within 72 hours
+    commercial_lease_term: minimum 36 months
+    commercial_deposit_months: 3 months
+    commercial_utilities_included: no, billed separately
+    commercial_parking_spaces: 29 spaces for tenants
+    commercial_signage_policy: internal signage only, external prohibited
+    commercial_application_fee: 12,500 RUB
+    commercial_approval_time: 2–3 weeks
+    commercial_contact_email: commercial@marina-view.ru
+    access_card_replacement_fee: 1500 RUB
+    access_guest_code_duration: 12 hours
+    access_lost_key_procedure: report to management, replacement within 24 hours
+    security_patrol_frequency: every 3 hours
+    security_alarm_response_time: 5 minutes
+    security_incident_reporting: via security post or phone
+    visitor_max_stay_hours: 8 hours without registration
+    visitor_parking_available: yes, 15 spaces
+    visitor_registration_required: for stays over 24 hours
+  zhk_highland_ridge:
+    complex_name: Highland Ridge
+    management_company: Highland Management LLC
+    studio_sizes: 28–35
+    one_bedroom_sizes: 44–56
+    two_bedroom_sizes: 66–84
+    three_bedroom_sizes: 94–115
+    four_bedroom_sizes: 135–165
+    ceiling_height: '3.1'
+    finish_type: full turnkey, alpine style
+    studio_price: 5.1M
+    one_bedroom_price: 7.5M
+    two_bedroom_price: 11.2M
+    three_bedroom_price: 15.8M
+    four_bedroom_price: 22.4M
+    mortgage_down_payment: 20%
+    mortgage_rate: 6.6%
+    partner_bank: Sberbank, Rosbank
+    completion_date: Q4 2025
+    parking_type: Underground
+    parking_spaces: '350'
+    parking_levels: '2'
+    parking_price: 1.42M
+    motorcycle_price: —
+    ev_charging_count: '17'
+    bicycle_spaces: 40 spaces
+    courtyard_area: 2.8 ha
+    commercial_ground_floor: ski rental, sports bar, mountain gear shop
+    maintenance_tariff: '59'
+    commercial_lots_count: '5'
+    commercial_size_range: 50–160
+    commercial_rental_rate: from 2,150 RUB/sqm per month
+    commercial_ceiling_height: '3.85'
+    commercial_permitted_use: sports, retail, F&B, tourism
+    acs_type: key card + mobile app
+    cctv_cameras: '78'
+    cctv_archive_days: '33'
+    security_type: 1 post 24/7, ski storage guard
+    quiet_hours: 23:30–08:00 daily
+    renovation_hours: Mon–Fri 09:00–19:00, Sat 10:00–16:00
+    pets_policy: allowed, popular with dog owners
+    smoking_policy: prohibited in common areas
+    subletting_policy: short-term rental for ski season permitted
+    playground_zones: 2 zones, mountain adventure theme
+    sports_facilities: ski storage, climbing wall, trailhead 500 m
+    window_type: triple-glazed aluminum
+    balcony_availability: all units include glazed loggias
+    storage_options: built-in wardrobes in bedrooms
+    mortgage_max_term: 30 years
+    mortgage_early_repayment: allowed after 1 year without penalty
+    parking_violation_fine: 3,000 RUB
+    guest_parking_spots: 25 spaces
+    parking_reservation_fee: 500 RUB per day
+    management_company_phone: +7 (495) 142-4200
+    management_office_hours: Mon–Fri 09:00–18:00, Sat 10:00–15:00
+    management_staff_count: 7 staff members
+    emergency_hotline: +7 (495) 913-9090
+    resident_portal: residents-highland-ridge.ru
+    complaint_response_time: within 24 hours
+    commercial_lease_term: minimum 12 months
+    commercial_deposit_months: 2 months
+    commercial_utilities_included: no, all billed separately
+    commercial_parking_spaces: 24 spaces for tenants
+    commercial_signage_policy: external signage allowed with design approval
+    commercial_application_fee: 15,000 RUB
+    commercial_approval_time: 3–4 weeks
+    commercial_contact_email: commercial@highland-ridge.ru
+    access_card_replacement_fee: 2000 RUB
+    access_guest_code_duration: 72 hours
+    access_lost_key_procedure: report to management, replacement within 24 hours
+    security_patrol_frequency: hourly during night
+    security_alarm_response_time: 10 minutes
+    security_incident_reporting: via mobile app or hotline
+    visitor_max_stay_hours: 8 hours without registration
+    visitor_parking_available: yes, 14 spaces
+    visitor_registration_required: for stays over 24 hours

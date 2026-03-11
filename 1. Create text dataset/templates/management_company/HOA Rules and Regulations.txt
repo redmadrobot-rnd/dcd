@@ -1,0 +1,67 @@
+**HOA Rules and Regulations**
+
+---
+
+### 1. General Provisions
+
+The following rules apply to all residents. The management company **{{management_company}}** is responsible for enforcing these regulations.
+
+---
+
+### 2. Quiet Hours
+
+**Quiet hours:** {{quiet_hours}}. During these periods, residents are requested to minimise noise that may disturb neighbours.
+
+---
+
+### 3. Renovation Work
+
+**Renovation work permitted:** {{renovation_hours}}. Work outside these hours may result in penalties.
+
+---
+
+### 4. Pets
+
+**Pets policy:** {{pets_policy}}. Residents must comply with these requirements when keeping animals in the complex.
+
+---
+
+### 5. Smoking
+
+**Smoking policy:** {{smoking_policy}}.
+
+---
+
+### 6. Subletting
+
+**Subletting policy:** {{subletting_policy}}.
+
+---
+
+### 7. Common Areas and Shared Facilities
+
+Residents must use common areas (lobbies, corridors, courtyards, parking) in a manner that does not obstruct others or damage property. Placing personal items in common areas without permission may be prohibited. Bicycles, prams, and other personal belongings should be stored in designated areas. The management company may remove unauthorised items after prior notice where permitted by the rules.
+
+---
+
+### 8. Enforcement and Penalties
+
+Violations of the rules may result in a written warning, a fine, or other measures as specified in the management contract and applicable law. Repeated or serious violations may be escalated to the homeowners' association or general meeting. Residents have the right to appeal decisions through the procedures set out in the governing documents.
+
+---
+
+### 9. Deliveries and Moving
+
+Large deliveries and moving of furniture should be coordinated with {{management_company}} to avoid blocking entrances and lifts. Moving may be restricted to certain hours (typically within {{renovation_hours}}). Residents are responsible for any damage to common areas caused during delivery or moving. Elevator reservation for moving may be available upon request and may incur a fee.
+
+---
+
+### 10. Noise and Nuisance
+
+In addition to quiet hours ({{quiet_hours}}), residents should avoid excessive noise at any time. Musical instruments, loud appliances, and gatherings should be used or held in a way that does not disturb neighbours. Complaints about noise can be submitted to {{management_company}}, which may investigate and take action in accordance with the rules. Persistent noise nuisance may be escalated to the authorities. Pets policy ({{pets_policy}}) and smoking rules ({{smoking_policy}}) also contribute to a peaceful environment.
+
+---
+
+### 11. Summary
+
+Residents must adhere to the rules set out above. For questions or clarifications, contact {{management_company}}. The rules are intended to ensure a harmonious living environment for all residents and to protect the value and condition of the property.

@@ -1,0 +1,57 @@
+**Apartment Features and Finish**
+
+---
+
+### 1. Technical Specifications
+
+The apartments are designed with high-quality materials and modern standards. All specifications comply with current building regulations.
+
+---
+
+### 2. Windows and Glazing
+
+Windows are **{{window_type}}** to provide thermal insulation and sound reduction. Frame materials are selected for durability and weather resistance. Opening configurations (tilt-and-turn, sliding, fixed) are chosen to suit the facade design and ventilation requirements. Residents should not modify the external appearance of windows without approval, as this may affect the building's aesthetics and warranty.
+
+---
+
+### 3. Balconies and Outdoor Spaces
+
+**{{balcony_availability}}**. These areas are suitable for seasonal use and may be glazed or open depending on the unit type. Balcony dimensions are included in the net internal area where they form part of the heated envelope.
+
+---
+
+### 4. Storage and Built-in Features
+
+**{{storage_options}}**. Larger apartment types may include additional built-in storage, utility cupboards, or designated areas for washing machines and drying. The exact provision depends on the unit layout. Storage rooms in the basement or on the technical floor, if available, are typically sold or allocated separately and are subject to availability.
+
+---
+
+### 3. Quality Standards
+
+All apartments are delivered in accordance with the declared standards and meet the building codes applicable to residential developments in the jurisdiction. The developer provides a standard warranty on construction defects.
+
+Electrical and plumbing systems are installed to current standards and are designed to support typical household loads. Each apartment has individual metering for electricity, water, and heating where applicable. Residents are responsible for maintaining their unit in good condition and for any modifications they choose to make after handover.
+
+---
+
+### 4. Storage and Built-in Features
+
+**{{storage_options}}**. Larger apartment types may include additional utility cupboards or designated areas for washing machines and drying. The exact provision depends on the unit layout.
+
+---
+
+### 5. Windows and Natural Light
+
+Windows are **{{window_type}}**, selected to provide thermal insulation and sound reduction. Frame materials may vary; aluminium or PVC frames are common. Opening configurations (tilt-and-turn, sliding, fixed) are selected to suit the facade design and ventilation requirements. Residents should not modify the external appearance of windows without approval, as this may affect the building's aesthetics and warranty.
+
+---
+
+### 6. Heating and Climate
+
+Heating is usually provided via a central system with individual apartment controls or radiators. Proper ventilation helps prevent moisture buildup and maintains indoor air quality. In units with mechanical ventilation, residents should avoid blocking grilles or modifying the system without consulting the management company.
+
+---
+
+### 7. Summary
+
+The apartments combine quality finishes, thoughtful design features, and modern technical systems to provide a solid foundation for comfortable residential living. Residents can further enhance their space through interior design and furnishings that suit their lifestyle. Regular maintenance and care will help preserve the value and condition of the apartment over time.

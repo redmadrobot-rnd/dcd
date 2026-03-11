@@ -1,0 +1,52 @@
+**Security and Access Control System**
+
+---
+
+### 1. Access Control System (ACS)
+
+**ACS type:** {{acs_type}}. Residents use this system to enter the building and common areas.
+
+---
+
+### 2. Video Surveillance
+
+- **CCTV cameras:** {{cctv_cameras}} units
+- **Footage archive:** {{cctv_archive_days}} days
+
+The video surveillance system covers entrances, lobbies, parking areas, and common spaces. Recordings are stored for the specified retention period.
+
+---
+
+### 3. Security Personnel
+
+**Security:** {{security_type}}. The security team ensures the safety of residents and monitors access to the territory.
+
+---
+
+### 4. Integration
+
+The access control and CCTV systems are integrated to provide comprehensive security coverage. Residents receive access credentials (keys, cards, or mobile app) upon registration with the management company. Lost or stolen credentials should be reported immediately so they can be deactivated. Replacement may incur a fee. Visitors can be granted temporary access through the intercom, a one-time code, or pre-registration in the resident portal, depending on the system in place.
+
+---
+
+### 5. Fire Safety and Emergency Systems
+
+The development is equipped with fire detection and alarm systems, emergency lighting, and clearly marked escape routes. Residents should familiarise themselves with the evacuation plan posted in the lobby. In the event of a fire alarm, residents must evacuate promptly and assemble at the designated meeting point. Tampering with fire safety equipment is prohibited and may result in penalties.
+
+---
+
+### 6. Emergency Procedures
+
+In case of emergency (fire, medical incident, suspicious activity), residents should call the emergency services and, where appropriate, notify the management company or security ({{security_type}}). Emergency contact numbers are posted in the lobby and in the resident handbook. The {{cctv_cameras}} cameras with {{cctv_archive_days}}-day archive can assist in incident investigation. Residents should not attempt to confront intruders or handle hazardous situations themselves; leave this to trained personnel. Know the location of fire extinguishers and first aid kits in common areas.
+
+---
+
+### 7. Data Protection and Privacy
+
+CCTV recordings ({{cctv_cameras}} cameras, {{cctv_archive_days}}-day retention) are used solely for security purposes. Access to recordings is restricted to authorised personnel and may be granted to law enforcement upon request. Residents have the right to request information about the processing of their personal data in connection with access control ({{acs_type}}) and surveillance. The management company complies with applicable data protection legislation.
+
+---
+
+### 8. Summary
+
+The development is equipped with {{acs_type}} for access control, {{cctv_cameras}} CCTV cameras with a {{cctv_archive_days}}-day archive, and {{security_type}} for physical security. These measures are designed to protect residents and their property while allowing convenient access for authorised persons.

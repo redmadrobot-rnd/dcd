@@ -1,0 +1,37 @@
+**Visitor Access and Guest Registration**
+
+---
+
+### 1. Visitor Stay Policy
+
+**Maximum stay without registration:** {{visitor_max_stay_hours}}. **Registration required:** {{visitor_registration_required}}. Guests staying longer must be registered with {{management_company}} via the resident portal or management office.
+
+---
+
+### 2. Guest and Visitor Procedures
+
+Residents are responsible for their guests. To admit a visitor, the resident may: (1) use the intercom or mobile app to release the door remotely, (2) provide a one-time access code if the system supports it, or (3) meet the guest at the entrance. Residents should not share their permanent access credentials with guests. Unauthorised sharing may result in access revocation and penalties.
+
+---
+
+### 3. Visitor Parking
+
+**Visitor parking available:** {{visitor_parking_available}}. Guest vehicles should park in designated visitor spaces. Parking durations exceeding the allowed time may require registration or payment. Residents should inform guests of parking rules to avoid fines or towing.
+
+---
+
+### 4. Delivery and Contractors
+
+Delivery personnel and contractors should be announced via the intercom. Residents may authorise entry by releasing the door or providing a temporary code. For large deliveries or works requiring repeated access, residents should register the contractor with {{management_company}} and ensure they comply with access rules and permitted working hours.
+
+---
+
+### 5. Security Verification
+
+Security personnel may verify visitor identity and purpose. Residents should inform guests of the applicable procedures to avoid delays. Report any suspicious activity or unauthorised access to the management company or security immediately.
+
+---
+
+### 6. Summary
+
+Visitor stay limit: {{visitor_max_stay_hours}}. Registration required: {{visitor_registration_required}}. Visitor parking: {{visitor_parking_available}}. Residents admit guests via intercom or app; do not share credentials. Register long-term guests with {{management_company}}.

@@ -1,0 +1,43 @@
+**Commercial Lease Application**
+
+---
+
+### 1. Overview
+
+The development offers commercial lots on the ground floor. Prospective tenants must submit an application and undergo a selection process before signing a lease.
+
+---
+
+### 2. Application Fee and Timeline
+
+**Application fee:** {{commercial_application_fee}}. This non-refundable fee covers administrative costs for reviewing the application. **Approval time:** {{commercial_approval_time}}. Applications are reviewed on a first-come, first-served basis, subject to suitability.
+
+---
+
+### 3. Application Documents
+
+Prospective tenants typically submit: (1) a business plan or company profile, (2) proposed use and fit-out concept, (3) financial statements or proof of solvency, and (4) references from previous landlords if applicable. The landlord may request additional documents. Incomplete applications may delay the review process.
+
+---
+
+### 4. Contact and Submission
+
+**Application contact:** {{commercial_contact_email}}. Applications can be submitted via email or in person at the developer's commercial department. Site visits can be arranged by appointment. Include all required documents and the application fee payment confirmation.
+
+---
+
+### 5. Selection Criteria
+
+The landlord evaluates applications based on business viability, alignment with permitted use, financial stability, and compatibility with the development's concept. Priority may be given to businesses that provide services beneficial to residents or fill gaps in the existing tenant mix. The landlord reserves the right to reject applications without stating a reason.
+
+---
+
+### 6. Post-Approval Steps
+
+Once approved, the parties negotiate the lease terms and prepare the contract. A security deposit is usually required before keys are handed over. Tenants must obtain necessary permits and approvals for fit-out and business operations. The landlord can provide guidance on local regulations.
+
+---
+
+### 7. Summary
+
+To apply for a commercial lease, submit application documents and fee ({{commercial_application_fee}}) to {{commercial_contact_email}}. Approval time: {{commercial_approval_time}}. Once approved, lease negotiation and contract signing follow. Contact for inquiries: {{commercial_contact_email}}.
