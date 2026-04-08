@@ -1,4 +1,8 @@
+
+
 # DCD RAG Pipeline
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a691bb2d-c467-4681-a878-d37a5976af75" />
 
 End-to-end pipeline for building and evaluating a Domain-Collection-Document (DCD) RAG system with metadata filtering.
 
